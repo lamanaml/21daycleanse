@@ -59,7 +59,7 @@
 
 
         <div class="jumbotron" >
-          <img src="http://www.culinaryhealing.com/21days/assets/images/1.png" width="100%" > 
+          <img src="assets/images/1.png" width="100%" > 
           <!-- <blockquote>
             <p class="quotation">  "We are not human beings on a spiritual journal, we are spiritual beings on a human journey". </p> 
           </blockquote> 
@@ -72,7 +72,7 @@
         <div class="container" style="margin-top:20px; background-color: white;">
       <div class="card-group ">
         <div class="card shadow col-sm-6 p-3 mb-5 bg-white rounded">
-          <img src=".http://www.culinaryhealing.com/21days/assets/images/profile-lamana1.jpg" class="card-img-top" class="rounded-bottom" alt="...">
+          <img src="http://www.culinaryhealing.com/21days/assets/images/profile-lamana1.jpg" class="card-img-top" class="rounded-bottom" alt="...">
           <div class="card-body">          </div>
           </div>
      
