@@ -26,7 +26,7 @@
     <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&family=Pacifico&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,400;1,500;1,700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="http://www.culinaryhealing.com/assets/css/lamana.css">
+    <!-- <link rel="stylesheet" href="http://www.culinaryhealing.com/assets/css/lamana.css"> -->
     <link rel="stylesheet" href="http://www.culinaryhealing.com/21days/assets/css/21day.css">
   </head>
 
@@ -35,7 +35,7 @@
     
 <!-- navigation -->
     <div class="nav-div">
-      <?php include_once("nav2.html"); ?>
+      <?php include_once("nav.html"); ?>
     </div>
      
    <!-- Hero -->
@@ -72,7 +72,7 @@
         <div class="container" style="margin-top:20px; background-color: white;">
       <div class="card-group ">
         <div class="card shadow col-sm-6 p-3 mb-5 bg-white rounded">
-          <img src="../../assets/images/profile-lamana1.jpg" class="card-img-top" class="rounded-bottom" alt="...">
+          <img src=".http://www.culinaryhealing.com/21days/assets/images/profile-lamana1.jpg" class="card-img-top" class="rounded-bottom" alt="...">
           <div class="card-body">          </div>
           </div>
      

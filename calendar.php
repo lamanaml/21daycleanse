@@ -34,7 +34,7 @@
     <div class="nav-div">
     
 <!-- navigation -->
-      <?php include_once("nav2.html"); ?>
+      <?php include_once("nav.html"); ?>
     </div>
      
 
