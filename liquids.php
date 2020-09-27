@@ -40,7 +40,7 @@
   
       
         <div class="jumbotron" style="margin:0px; background-color: white;">
-        <img src="http://www.culinaryhealing.com/assets/images/4.png" width="100%" > 
+        <img src="assets/images/liquids.png" width="100%" > 
       </div>
 
     <div class="container" style="margin-top:20px; background-color: white;">

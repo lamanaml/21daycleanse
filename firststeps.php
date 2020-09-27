@@ -45,7 +45,7 @@
 <!-- Hero -->
     
     <div class="jumbotron" style="margin:0px; background-color: white;">
-      <img src="http://www.culinaryhealing.com/assets/images/6.png" width="100%"  >   
+      <img src="assets/images/firststeps.png" width="100%"  >   
     
       
     </div>
