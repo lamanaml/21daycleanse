@@ -109,7 +109,7 @@
                       </button>
                     </h5>
                   </div>
-                  <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+                  <div id="collapseOne" class="collapse " aria-labelledby="headingOne" data-parent="#accordion">
                     <div class="card-body"> Learning how to read labels is one of our most powerful weapons for a healthy diet.  First, ignore the front of the package (they are lying to us), go straight to the back.  The main ingredients that we should avoid are: 
                     <ul class="default">
                       <li>- Hydrogenated oils</li>
@@ -131,7 +131,7 @@
                       </button>
                     </h5>
                   </div>
-                  <div id="collapsea" class="collapse show" aria-labelledby="headinga" data-parent="#accordion">
+                  <div id="collapsea" class="collapse " aria-labelledby="headinga" data-parent="#accordion">
                     <div class="card-body"> <p>I know that Sugar is a big problem for some of us (raise your hand if this is you).  Processed sugars are highly addictive, but there are some natural ones that are OK.  </p>
 
                    <p> Sweeteners that are better (but should still be used in moderation)</p>
