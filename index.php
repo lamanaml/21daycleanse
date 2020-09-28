@@ -27,7 +27,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&family=Pacifico&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,400;1,500;1,700&display=swap" rel="stylesheet">
     <!-- <link rel="stylesheet" href="http://www.culinaryhealing.com/assets/css/lamana.css"> -->
-    <link rel="stylesheet" href="http://www.culinaryhealing.com/21days/assets/css/21day.css">
+    <link rel="stylesheet" href="assets/css/21day.css">
   </head>
 
 
@@ -59,7 +59,7 @@
 
 
         <div class="jumbotron" >
-          <img src="assets/images/1.png" width="100%" > 
+          <img src="assets/images/pagetitles/welcome.png" width="100%" > 
           <!-- <blockquote>
             <p class="quotation">  "We are not human beings on a spiritual journal, we are spiritual beings on a human journey". </p> 
           </blockquote> 
