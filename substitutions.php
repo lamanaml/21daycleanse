@@ -34,7 +34,7 @@
     <div class="nav-div">
     
 <!-- navigation -->
-      <?php include_once("nav.html"); ?>
+      <?php include_once("includes/nav.html"); ?>
     </div>
      
 <!-- content Body -->
@@ -369,7 +369,7 @@ Below is a more extensive list of ingredients to avoid, and healthier substituti
    
     <!-- Footer-->
         <div>
-      <?php include_once("footer2.html"); ?> 
+      <?php include_once("includes/footer.html"); ?> 
      </div>
 
 

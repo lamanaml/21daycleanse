@@ -34,7 +34,7 @@
     <div class="nav-div">
     
 <!-- navigation -->
-      <?php include_once("nav.html"); ?>
+      <?php include_once("includes/nav.html"); ?>
     </div>
      
 
@@ -50,7 +50,7 @@
     
     <!-- Footer-->
      <div>
-      <?php include_once("footer2.html"); ?> 
+      <?php include_once("includes/footer.html"); ?> 
      </div>
 
 

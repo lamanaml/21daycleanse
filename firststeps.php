@@ -38,7 +38,7 @@
     
 <!-- navigation -->
     <div class="nav-div">
-      <?php include_once("nav.html"); ?>
+      <?php include_once("includes/nav.html"); ?>
     </div>
      
    
@@ -344,7 +344,7 @@
  </div>
 <!-- Footer-->
       <div>
-        <?php include_once("footer2.html"); ?> 
+        <?php include_once("includes/footer.html"); ?> 
       </div>
 
     
