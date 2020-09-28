@@ -51,6 +51,22 @@
     </div>
     
     
+<div class="card-container">
+  <div class="card u-clearfix">
+    <div class="card-body">
+      <span class="card-number card-circle subtle">01</span>
+      <span class="card-author subtle">John Smith</span>
+      <h2 class="card-title">New Brunch Recipe</h2>
+      <span class="card-description subtle">These last few weeks I have been working hard on a new brunch recipe for you all.</span>
+      <div class="card-read">Read</div>
+      <span class="card-tag card-circle subtle">C</span>
+    </div>
+    <img src="https://s15.postimg.cc/temvv7u4r/recipe.jpg" alt="" class="card-media" />
+  </div>
+  <div class="card-shadow"></div>
+</div>
+
+
 <!-- Cards -->
    <div class="container" style="margin-top:20px; background-color: white;">
    <p class="lead"> Let's take a few days to arm ourselves with the knowledge needed to crush this cleanse. Below are the different phases of the cleanse. We explain each phase, what it means, what to eat, what not to eat, and give you a few activities to help to make sure you understand.  This First Steps section is here to help make sure we have all of the information that we need before we start on day 1.  Let's have fun with the learning and activities, as the more time we spend here, the more prepared we will be for our journey! </p>
