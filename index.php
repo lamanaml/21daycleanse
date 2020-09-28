@@ -68,7 +68,7 @@
         </div>
             
     <div class="nav-div">
-      <?php include_once("card.html"); ?>
+      <?php include_once("includes/card.html"); ?>
     </div>
      
 

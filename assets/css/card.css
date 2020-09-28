@@ -36,7 +36,7 @@ html {
   width: 700px;
 }
 
-.card {
+.card2 {
   background-color: #fff;
   padding: 30px;
   position: relative;
@@ -116,6 +116,7 @@ html {
 
 .card-media {
   float: right;
+ 
 }
 
 .card-shadow {
