@@ -45,7 +45,7 @@
 <!-- Hero -->
     
     <div class="jumbotron" style="margin:0px; background-color: white;">
-      <img src="assets/pagetitles/images/firststeps.png" width="100%"  >   
+      <img src="assets/images/pagetitles/firststeps.png" width="100%"  >   
     
       
     </div>
