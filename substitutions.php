@@ -41,11 +41,8 @@
 <!-- Header -->
 <!-- content Body -->
      <div class="container intro">  
-          <h1 class="display-4">Food Substitution Chart</h1>
-         
-        
-
-              <p style="align:left" class="body">One major step in becoming healthier is making better food choices. The foods below are healthier options that you can swap out in your favorite recipes. Reading labels is very important. The main ingredients that we should avoid are:
+          <h3>Food Substitution Chart</h3>
+            <p class="card-text">One major step in becoming healthier is making better food choices. The foods below are healthier options that you can swap out in your favorite recipes. Reading labels is very important. The main ingredients that we should avoid are:
               <ul>
                 <li>Hydrogenated oils</li>
                 <li>Partially hydrogenated oils</li>
@@ -64,7 +61,7 @@ Below is a more extensive list of ingredients to avoid, and healthier substituti
                   <td width="155"><strong>Raw</strong></td>
                 </tr>
                 <tr valign="top" class="small">
-                  <td bgcolor="yellow">white sugar, corn syrup, syrups (like log cabin) </td>
+                  <td style="bgcolor:yellow">white sugar, corn syrup, syrups (like log cabin) </td>
                   <td><ul>
                       <li>rapadura</li>
                       <li>sucanat</li>

@@ -41,7 +41,7 @@
 <!-- content Body -->
 
      <div class="container intro">  
-          <h1 class="display-4"> Resources</h1>
+          <h3 > Resources</h3>
          
          <div class="media">
 

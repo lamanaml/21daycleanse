@@ -43,30 +43,27 @@
 
 
   <!-- content Body -->
-   <div class="container intro">  
-        <div class="card mb-3 ">
-          <div class="card-body">
-            <h3 class="card-title">What are Live (also know as Raw) foods?</h3>
-            <p class="card-text">Live / raw foods are whole foods that have not been heated over a certain temperature, so they still have the vitamins, minerals, phytochemicals, and specifically the enzymes intact. 
-            </p>
-            <p class="card-text" style="font-weight:bold">
-            What are Enzymes?
-            <ul>
-              <li>Enzymes are the life force that conducts and directs every activity in our body.</li>
-              <li>Enzymes "digest" or break down food in our digestive systems.</li>
-              <li>Eating an enzyme-rich diet is thought to increase vitality, slows the aging process, help repair our DNA and RNA, breaks down proteins, increase weight loss and eliminate toxins.</li>
-            </ul>
-            </p>
-            <p class="card-text">Enzymes are heat sensitive and destroyed at temperatures above 115 degrees. This is important because the purpose of eating is to provide our bodies with these nutrients and enzymes, and if they are destroyed through cooking, we are not giving our bodies what it needs... which defeats the point... right? 
-            </p>
-             <p class="card-text">The terms Raw and Live are sometimes used interchangeably, however there is a slight difference.  Technically speaking, raw food is in a dormant state where the enzymes have not yet been activated.  So, for example, sunflower seeds are raw.  You can keep it indefinately and it will continue to be a seed.  However, if you soak the seed overnight (removing the enzyme inhibitors), it will start to grow a sprout.  Soaking it changes the state from raw to live, meaning the exzymes have become active and it can now produce life. Therefore, Live food is always Raw, but not all Raw food is Live.   
-            </p>
-            <p class="card-text">So, during this phase (days 3-7 and days 15-19), we will turn off the stoves and flood ourselves with nutrients and life giving enzymes!</p>
-             <!-- <p class="card-text">Need a litte inspiration?  Check out some of our <a href="https://culinaryhealing.com/21days/recipes/?cat=4">Whole Food Recipes</a>! -->
-          </div>
+  <div class="container intro">  
+    <h3 >What are Live (also know as Raw) foods?</h3>
+    <p class="card-text">Live / raw foods are whole foods that have not been heated over a certain temperature, so they still have the vitamins, minerals, phytochemicals, and specifically the enzymes intact. 
+    </p>
+    <p class="card-text" style="font-weight:bold">
+    What are Enzymes?
+    <ul>
+      <li>Enzymes are the life force that conducts and directs every activity in our body.</li>
+      <li>Enzymes "digest" or break down food in our digestive systems.</li>
+      <li>Eating an enzyme-rich diet is thought to increase vitality, slows the aging process, help repair our DNA and RNA, breaks down proteins, increase weight loss and eliminate toxins.</li>
+    </ul>
+    </p>
+    <p class="card-text">Enzymes are heat sensitive and destroyed at temperatures above 115 degrees. This is important because the purpose of eating is to provide our bodies with these nutrients and enzymes, and if they are destroyed through cooking, we are not giving our bodies what it needs... which defeats the point... right? 
+    </p>
+      <p class="card-text">The terms Raw and Live are sometimes used interchangeably, however there is a slight difference.  Technically speaking, raw food is in a dormant state where the enzymes have not yet been activated.  So, for example, sunflower seeds are raw.  You can keep it indefinately and it will continue to be a seed.  However, if you soak the seed overnight (removing the enzyme inhibitors), it will start to grow a sprout.  Soaking it changes the state from raw to live, meaning the exzymes have become active and it can now produce life. Therefore, Live food is always Raw, but not all Raw food is Live.   
+    </p>
+    <p class="card-text">So, during this phase (days 3-7 and days 15-19), we will turn off the stoves and flood ourselves with nutrients and life giving enzymes!</p>
+  </div>
 
           
-        </div>
+  
 
         <div class="row">
             <div class="col">
