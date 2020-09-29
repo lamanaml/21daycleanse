@@ -27,7 +27,7 @@
     <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&family=Pacifico&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,400;1,500;1,700&display=swap" rel="stylesheet">
-    
+
     <!-- <link rel="stylesheet" href="http://www.culinaryhealing.com/assets/css/lamana.css"> -->
     <link rel="stylesheet" href="assets/css/21day.css">
   </head>
@@ -62,11 +62,6 @@
 
   <div class="jumbotron" >
     <img src="assets/images/pagetitles/welcome.png" width="100%" > 
-    <!-- <blockquote>
-      <p class="quotation">  "We are not human beings on a spiritual journal, we are spiritual beings on a human journey". </p> 
-    </blockquote> 
-    <p class="lead">I don't know whose quote this is, but it is profound.  Meditate on it for a while.  Let's not limit ourselves to what we think is possible as a human being.  Let's open our minds to experience life as a spiritual being.  There are no limitations.  
-    </p>  -->
   </div>
       
       <div class="container">  
