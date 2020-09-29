@@ -60,9 +60,9 @@
 </div> -->
 
 
-  <div class="jumbotron" >
+
     <img src="assets/images/pagetitles/welcome.png" width="100%" > 
-  </div>
+
       
       <div class="container">  
         <p class="card-text">  During these 3 weeks, we will make some changes to our diets to reduce the number of toxins that we consume. Doing this will allow our bodies to detox more efficiently, something that happens naturally. While we are detoxing, we will learn a lot about food, our relationship to it, and the effects that different foods have on our bodies.</p>
