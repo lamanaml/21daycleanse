@@ -20,12 +20,11 @@
       gtag('config', 'UA-26808506-1');
     </script>
 
+    
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">    
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&family=Pacifico&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,400;1,500;1,700&display=swap" rel="stylesheet">
-    <!-- <link rel="stylesheet" href="http://www.culinaryhealing.com/assets/css/lamana.css"> -->
+
+    
     <link rel="stylesheet" href="assets/css/21day.css">
  
   </head>
@@ -39,13 +38,11 @@
     </div>
      
    
-<!-- Hero -->
-    
-
-      <img src="assets/images/pagetitles/firststeps.png" class="headerImg" width="100%"  >   
+<!-- Header -->
+    <img src="assets/images/pagetitles/firststeps.png" class="headerImg" width="100%"  >   
 
     
-    
+  <!-- content Body -->    
    <div class="container" >
    <p class="card-text"> Let's take a few days to arm ourselves with the knowledge needed to crush this cleanse. Below are the different phases of the cleanse. We explain each phase, what it means, what to eat, what not to eat, and give you a few activities to help to make sure you understand.  This First Steps section is here to help make sure we have all of the information that we need before we start on day 1.  Let's have fun with the learning and activities, as the more time we spend here, the more prepared we will be for our journey! </p>
       <div>

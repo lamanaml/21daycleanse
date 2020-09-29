@@ -24,47 +24,26 @@
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">    
 
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&family=Pacifico&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,400;1,500;1,700&display=swap" rel="stylesheet">
-
-    <!-- <link rel="stylesheet" href="http://www.culinaryhealing.com/assets/css/lamana.css"> -->
-    <link rel="stylesheet" href="http://www.lamanadonadelle.com/21daycleanse/assets/css/21day.css">
+    
+    <link rel="stylesheet" href="assets/css/21day.css">
   </head>
 
 
   <body id="welcome">
     
+
 <!-- navigation -->
     <div class="nav-div">
       <?php include_once("includes/nav.html"); ?>
     </div>
      
-   <!-- Hero -->
-   <!-- sign in -->
-    <!-- <div class="container">
-    <form method="post" action="">
-        <div id="div_login">
-            <h1>Login</h1>
-            <div>
-                <input type="text" class="textbox" id="txt_uname" name="txt_uname" placeholder="Username" />
-            </div>
-            <div>
-                <input type="password" class="textbox" id="txt_uname" name="txt_pwd" placeholder="Password"/>
-            </div>
-            <div>
-                <input type="submit" value="Submit" name="but_submit" id="but_submit" />
-            </div>
-        </div>
-    </form>
-</div> -->
-
-
-
+   
+<!-- Header -->
     <img class="headerImg" src="assets/images/pagetitles/welcome.png" width="100%" > 
 
       
-      <div class="container">  
+   <!-- content Body -->
+        <div class="container">  
         <p class="card-text">  During these 3 weeks, we will make some changes to our diets to reduce the number of toxins that we consume. Doing this will allow our bodies to detox more efficiently, something that happens naturally. While we are detoxing, we will learn a lot about food, our relationship to it, and the effects that different foods have on our bodies.</p>
 
         <p class="card-text"> This cleanse is organized to be gradual so that we experience a minimal amount of detox symptoms. The first week is designed to slowly release toxins that have been stored in our bodies for many years. During the second week, liquids, we will flood our systems with nutrients that will heal and rebuild our bodies on a cellular level. During the third week, we will slowly reintroduce foods, taking note of how they make us feel. Using this feedback from our bodies, we will be able to optimize our diets. </p>

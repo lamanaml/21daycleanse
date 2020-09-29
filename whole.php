@@ -38,16 +38,10 @@
       <?php include_once("includes/nav.html"); ?>
     </div>
      
-  <!-- content Body -->
-      
-     
-     
-        <img src="assets/images/pagetitles/wholefood.png" class="headerImg" width="100%" > 
+  <!-- header -->
+    <img src="assets/images/pagetitles/wholefood.png" class="headerImg" width="100%" > 
          
-
-
-
-<!-- Main content -->
+<!-- content Body -->
 <div class="container" style="margin-top:20px; background-color: white;">
     <div class="card mb-3 ">
       <div class="card-body">
