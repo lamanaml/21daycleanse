@@ -137,6 +137,6 @@ a:link, a:visited {
 
 a:hover, a:active {
   color: blue;
-  
-  
+  text-decoration: none;
+
 }
