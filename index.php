@@ -61,7 +61,7 @@
 
 
   <div class="jumbotron" >
-    <img src="assets/images/pagetitles/welcome.png" width="100%" > 
+    
   </div>
       
       <div class="container">  
