@@ -58,25 +58,29 @@
 </div> -->
 
 
-        <div class="jumbotron" >
-          <img src="assets/images/pagetitles/welcome.png" width="100%" > 
-          <!-- <blockquote>
-            <p class="quotation">  "We are not human beings on a spiritual journal, we are spiritual beings on a human journey". </p> 
-          </blockquote> 
-          <p class="lead">I don't know whose quote this is, but it is profound.  Meditate on it for a while.  Let's not limit ourselves to what we think is possible as a human being.  Let's open our minds to experience life as a spiritual being.  There are no limitations.  
-          </p>  -->
-        </div>
-            
-            <div class="container">  <h5 class="card-title"> Welcome to the cleanse!</h5>
-                <p class="card-text">  During these 3 weeks, we will make some changes to our diets to reduce the number of toxins that we consume. Doing this will allow our bodies to detox more efficiently, something that happens naturally. While we are detoxing, we will learn a lot about food, our relationship to it, and the effects that different foods have on our bodies.</p>
+  <div class="jumbotron" >
+    <img src="assets/images/pagetitles/welcome.png" width="100%" > 
+    <!-- <blockquote>
+      <p class="quotation">  "We are not human beings on a spiritual journal, we are spiritual beings on a human journey". </p> 
+    </blockquote> 
+    <p class="lead">I don't know whose quote this is, but it is profound.  Meditate on it for a while.  Let's not limit ourselves to what we think is possible as a human being.  Let's open our minds to experience life as a spiritual being.  There are no limitations.  
+    </p>  -->
+  </div>
+      
+      <div class="container">  
+        <h5 class="card-title"> Welcome to the cleanse!</h5>
+        <p class="card-text">  During these 3 weeks, we will make some changes to our diets to reduce the number of toxins that we consume. Doing this will allow our bodies to detox more efficiently, something that happens naturally. While we are detoxing, we will learn a lot about food, our relationship to it, and the effects that different foods have on our bodies.</p>
 
-                <p class="card-text"> This cleanse is organized to be gradual so that we experience a minimal amount of detox symptoms. The first week is designed to slowly release toxins that have been stored in our bodies for many years. During the second week, liquids, we will flood our systems with nutrients that will heal and rebuild our bodies on a cellular level. During the third week, we will slowly reintroduce foods, taking note of how they make us feel. Using this feedback from our bodies, we will be able to optimize our diets. </p>
+        <p class="card-text"> This cleanse is organized to be gradual so that we experience a minimal amount of detox symptoms. The first week is designed to slowly release toxins that have been stored in our bodies for many years. During the second week, liquids, we will flood our systems with nutrients that will heal and rebuild our bodies on a cellular level. During the third week, we will slowly reintroduce foods, taking note of how they make us feel. Using this feedback from our bodies, we will be able to optimize our diets. </p>
 
-                <p class="card-text"> Each one of us will experience something different. Some detox symptoms are more obvious than others. These symptoms are temporary and are an indication that toxins are being released. Celebrate, then lay down somewhere and let our bodies do its thing. </p>
-                  <p><a href="firststeps.php" class="btn btn-primary">Now let's get this party started!</a></p></div>
-    <div class="nav-div">
-      <?php include_once("includes/steps.html"); ?>
-    </div>
+        <p class="card-text"> Each one of us will experience something different. Some detox symptoms are more obvious than others. These symptoms are temporary and are an indication that toxins are being released. Celebrate, then lay down somewhere and let our bodies do its thing. </p>
+            <!-- <p><a href="firststeps.php" class="btn btn-primary">Now let's get this party started!</a></p> -->
+      </div>
+
+
+      <div class="nav-div">
+        <?php include_once("includes/steps.html"); ?>
+      </div>
      
 
 
