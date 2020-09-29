@@ -40,8 +40,7 @@
 
 <!-- content Body -->
 
-       <div class="jumbotron" style="margin:0px; background-color: white;">
-       <div class="container" style="margin-top:20px; background-color: white;">
+     <div class="container intro">  
           <h1 class="display-4"> Resources</h1>
          
          <div class="media">

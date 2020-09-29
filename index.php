@@ -43,7 +43,7 @@
 
       
    <!-- content Body -->
-        <div class="container">  
+        <div class="container intro">  
         <p class="card-text">  During these 3 weeks, we will make some changes to our diets to reduce the number of toxins that we consume. Doing this will allow our bodies to detox more efficiently, something that happens naturally. While we are detoxing, we will learn a lot about food, our relationship to it, and the effects that different foods have on our bodies.</p>
 
         <p class="card-text"> This cleanse is organized to be gradual so that we experience a minimal amount of detox symptoms. The first week is designed to slowly release toxins that have been stored in our bodies for many years. During the second week, liquids, we will flood our systems with nutrients that will heal and rebuild our bodies on a cellular level. During the third week, we will slowly reintroduce foods, taking note of how they make us feel. Using this feedback from our bodies, we will be able to optimize our diets. </p>

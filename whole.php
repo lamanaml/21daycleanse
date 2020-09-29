@@ -42,7 +42,7 @@
     <img src="assets/images/pagetitles/wholefood.png" class="headerImg" width="100%" > 
          
 <!-- content Body -->
-<div class="container" style="margin-top:20px; background-color: white;">
+   <div class="container intro">  
     <div class="card mb-3 ">
       <div class="card-body">
         <h3 class="card-title">What are Whole Foods?</h3>

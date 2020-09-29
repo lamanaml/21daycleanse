@@ -43,7 +43,7 @@
 
 
   <!-- content Body -->
-<div class="container" style="margin-top:20px; background-color: white;">
+   <div class="container intro">  
         <div class="card mb-3 ">
           <div class="card-body">
             <h3 class="card-title">What are Live (also know as Raw) foods?</h3>
