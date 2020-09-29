@@ -38,10 +38,9 @@
      
 <!-- content Body -->
   
-      
-        <div class="jumbotron" style="margin:0px; background-color: white;">
-        <img src="assets/images/pagetitles/liquids.png" width="100%" > 
-      </div>
+
+        <img src="assets/images/pagetitles/liquids.png" class="headerImg" width="100%" > 
+
 
     <div class="container" style="margin-top:20px; background-color: white;">
     <div class="card mb-3 ">

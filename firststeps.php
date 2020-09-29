@@ -41,9 +41,9 @@
    
 <!-- Hero -->
     
-    <div class="jumbotron" >
-      <img src="assets/images/pagetitles/firststeps.png" width="100%"  >   
-    </div>
+
+      <img src="assets/images/pagetitles/firststeps.png" class="headerImg" width="100%"  >   
+
     
     
    <div class="container" >

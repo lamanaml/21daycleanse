@@ -40,9 +40,9 @@
      
   <!-- content Body -->
       
-        <div class="jumbotron" style="margin:0px; background-color: white;">
-          <img src="assets/images/pagetitles/livefood.png" width="100%"  > 
-        </div>
+   
+          <img src="assets/images/pagetitles/livefood.png" class="headerImg" width="100%"  > 
+
 
 <!-- Main content -->
 <div class="container" style="margin-top:20px; background-color: white;">
