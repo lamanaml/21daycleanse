@@ -129,14 +129,12 @@ html {
 }
 
 a:link, a:visited {
-  background-color: gray;
-  color: white;
-  padding: 14px 25px;
+ color: gray;
   text-align: center;
   text-decoration: none;
   display: inline-block;
 }
 
 a:hover, a:active {
-  background-color:gray;
+  background-color:darkslategray;
 }
