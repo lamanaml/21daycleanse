@@ -42,9 +42,7 @@
   <!-- content Body -->
      <div class="container intro">  
   
-    <div class="card mb-3 ">
-      <div class="card-body">
-        <h3 class="card-title">What are Liquids?</h3>
+      <h3 >What are Liquids?</h3>
         <p class="card-text">Liquids mean that no fiber is present.  Removing fiber allows our digestive systems slow down enough to start to reintroduce the stored toxins back into our bloodstream so they can be eliminated.  This, my friends, is called detoxing.  This is where the magic happens. </p> 
 
         <p class="card-text">The key to the liquids phase is to avoid all fiber.  If we keep to strictly juice with no cheating, within 3 days our hunger should subside along with the detox symptoms.  </p>
@@ -57,10 +55,8 @@
         </p>
     
                 
-
-         
             </div>
-          </div>
+      
 
 <div class="row">
     <div class="col">
