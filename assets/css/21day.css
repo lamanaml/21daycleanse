@@ -57,6 +57,9 @@ body {
   flex-wrap: wrap;
 }
 
+div-container {
+border:0px;
+}
 
 @media only screen and (min-width: 29.8125rem /* 477px */) {
   .ft-main {
