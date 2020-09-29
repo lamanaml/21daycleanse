@@ -61,7 +61,7 @@
 
 
 
-    <img src="assets/images/pagetitles/welcome.png" width="100%" > 
+    <img class="headerImg" src="assets/images/pagetitles/welcome.png" width="100%" > 
 
       
       <div class="container">  
