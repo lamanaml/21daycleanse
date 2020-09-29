@@ -1,7 +1,15 @@
 body {
   margin-top: 50px;
   font-family: 'Lato', sans-serif;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
 }
+.container {
+  flex: 1;
+}
+
+
 .jumbotron {
    background-color: white;
    padding:0px;
@@ -12,15 +20,8 @@ body {
 }
 
 
-
-
 /* Generic styling */
-* {
-  box-sizing: border-box;
-  font-family: "Lato", sans-serif;
-  margin: 0;
-  padding: 0;
-}
+
 ul {
   list-style: none;
   padding-left: 0;
@@ -28,16 +29,6 @@ ul {
 
 a:hover {
   text-decoration: underline;
-}
-
-/* Sticks footer to bottom */
-body {
-  display: flex;
-  min-height: 100vh;
-  flex-direction: column;
-}
-.container {
-  flex: 1;
 }
 
 
