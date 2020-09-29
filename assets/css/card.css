@@ -132,9 +132,10 @@ a:link, a:visited {
  color: gray;
   text-align: center;
   text-decoration: none;
-  display: inline-block;
+
 }
 
 a:hover, a:active {
-  background-color:darkslategray;
+  background-color: gray;
+  color: white;
 }
