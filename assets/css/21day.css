@@ -141,12 +141,6 @@ input[type="submit"] {
 
 
 
-/* Container */
-.container{
-    width:40%;
-    margin:0 auto;
-}
-
 /* Login */
 #div_login{
     border: 1px solid gray;
