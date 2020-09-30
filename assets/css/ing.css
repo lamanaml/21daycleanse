@@ -70,9 +70,10 @@ body {
 }
 
 .card:hover .card__inner2 {
-  background-color: #d6685a;
+  background-color: red;
   transform: scale(1.05);
 }
+
 .card__inner {
   width: 100%;
   padding: 30px;
@@ -129,6 +130,9 @@ body {
 .card.is-expanded .card__inner {
   background-color: #1abc9c;
 }
+
+.card.is-expanded .card__inner2 {
+  background-color: red
 .card.is-expanded .card__inner:after {
   content: "";
   opacity: 1;
