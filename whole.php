@@ -64,10 +64,7 @@
           <h3 class="card-title">What can we eat?</h3>
           <p class="card-text">Whole foods consist of fresh and frozen fruits and vegetables, dried beans and legumes, and whole grains. Whole foods can be cooked.</p>
           <ul class="list-group ">
-            <li class="list-group-item list-group-item-success"><h5>Fresh fruits (try to avoid seedless fruits)</h5>Including but not limited toApples, Pears, Citrus, Bananas, Berries, Coconuts, Tropical Fruit, Melons</li>
-            <li class="list-group-item list-group-item-success"><h5>Fresh veggies</h5>Green Leafy Vegetables, Root Vegetables, Peppers, Mushrooms</li>
-            <li class="list-group-item list-group-item-success"><h5>Sea veggies</h5> Nori, Dulse, Sea Moss, and Arame <p><a href="https://www.marksdailyapple.com/a-visual-guide-to-sea-vegetables/">>> Learn more about sea vegetables</a></p></li>
-            <li class="list-group-item list-group-item-success"  ><h5>Beans</h5>Lentils, Black Beans, Chickpeas... any dried bean</li>
+            
             <li class="list-group-item list-group-item-success"> <h5>Whole grains</h5> Brown rice, Quinoa, Millet, Farro, Wild Rice, Amaranth<p> <a href="https://wholegrainscouncil.org/whole-grains-101/whole-grains-z"> >> Learn more about Whole Grains </a></p>
             </li>
             <li class="list-group-item list-group-item-success"><h5>Oils</h5>Grapeseed, Avocado, Extra Virgin Olive, Coconut     </li>
