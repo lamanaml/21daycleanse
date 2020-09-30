@@ -38,7 +38,7 @@
    
 <!-- Header -->
       <div class="container">
-    <h1 >Liquids</h1>
+        <h1 >Liquids</h1>
   <!-- content Body -->
      <div class="container intro">  
   
@@ -49,136 +49,37 @@
         <p class="card-text"> 
           That said, for this phase, you will need a juicer.  To get the juice from fruits and veggies, we must use a JUICER, not a BLENDER.  A blender will mix the liquid with the fiber, while a juicer will extract the liquid, separating it from the fiber.  </p>
         
-        <p class="card-text">
-        
+        <p class="card-text">        
         During this phase (days 7-14) we will consume fresh nutrient-dense fruit and vegetable juices, herbal teas and water! While water alone may leave us feeling drained, freshy pressed juices will give us an energy surge. The nutrients in the juice will be absorbed by all the cells in our bodies, allowing them to immediately repair and restore our bodies at the cellular level. 
         </p>
     
-                
-            </div>
-      
- <div class="container ">  
-
-    <h3 class="card-title">What can we drink?</h3>
-   
-</p>
-
-
-<ul class="list-group ">
-
-  <li class="list-group-item list-group-item-success"><h5>Fresh pressed fruit juice</h5></li>
-
-  <li class="list-group-item list-group-item-success"><h5>Fresh pressed vegetable juice</h5>Juicing leafy greens becomes much easier if you roll the leaves into a little ball, before feeding it into the machine.</li>
-
-  <li class="list-group-item list-group-item-success"  ><h5>Water</h5></li>
-  
-
-  <li class="list-group-item list-group-item-success"> <h5>Herbal teas 
-</h5> fruity, minty, rooibos, bitters, health blends..., just make sure the ingredients don't have anything suspect, no caffeine
-  </li>
-
-
-  <li class="list-group-item list-group-item-success"><h5>Miso soup broth</h5>Try to find organic paste
-  <li class="list-group-item list-group-item-success"><h5>Chlorophyll</h5>
-
-  <li class="list-group-item list-group-item-success" ><h5>Spirulina 
-</h5>  It is loaded with protein and all the vitamins and minerals the body needs.  Mix it with your liquids. 
-</li>
-  
-
-  <li class="list-group-item list-group-item-success"> <h5>Wheatgrass </h5> or other grasses like barley grass  </li>
-
-   <li class="list-group-item list-group-item-success"><h5>Kombucha</h5>a fermented probiotic drink.  Watch out for the sugar content.  Some contain as much sugar as a soda.   
-</li>
- <li class="list-group-item list-group-item-success"><h5>Coconut Water</h5> I prefer the white Young Thai coconuts, or the green Carribean Coconuts, however, bottled coconut is allowed.  Harmless or other raw brands are preferred. 
-</li>
-</ul>
-
-</div>
-</div>
-    </div>
-
-
-
-
-    <div class="col col2">
-       <div class="card mb-3">
-  <div class="card-body">
-    <h3 class="card-title">What should we avoid?</h3>
-    <p class="card-text">
-</p>
-
+      <h3 class="card-title">Tips</h3>
+      <h5 class="card-title">Cleaning  fruits and veggies</h5>
+      <p class="card-text"> Fill your sink with cold water, add 4 tablespoons of salt and the juice of a lemon. Soak the fruits and veggies for 10 minutes then rinse under cold water. 1/4 cup of vinegar can be substituted for lemon.</p>
     
-    <ul class="list-group ">
-        <li class="list-group-item list-group-item-danger"><h5>Any foods, live/raw or cooked</h5> </li>
-        <li class="list-group-item list-group-item-danger"><h5>Oils</h5>Unprocessed natural oils are wonderful and have many healing properties on their own. The reason is that many toxins are fat-soluble, which means that the toxins can hitch a ride inside of the oils and get reabsorbed back into our bodies ... we don't want that]
-</li>
-        <li class="list-group-item list-group-item-danger"><h5>Bottled, canned or carton juices (unless it is cold pressed) </h5></li>
-        <li class="list-group-item list-group-item-danger"><h5>Bananas  </h5></li>
-        <li class="list-group-item list-group-item-danger"><h5>Smoothies </h5></li>
-        
-    </ul>
- </div>
-  </div>
-
- 
-       <div class="card mb-3">
-  <div class="card-body">
-    <h3 class="card-title">Tips</h3>
-<h5 class="card-title">Cleaning  fruits and veggies</h5>
-    <p class="card-text"> Fill your sink with cold water, add 4 tablespoons of salt and the juice of a lemon. Soak the fruits and veggies for 10 minutes then rinse under cold water. 1/4 cup of vinegar can be substituted for lemon.</p>
+      <h5 class="card-title">Storing your Juice</h5>
+      <p class="card-text">We drink fresh fruit and veggie juice because it still has all its nutrients and enzymes. This means that the juice still has it's "life force". This life force is what will give you energy throughout the cleanse. Fresh juice begins to lose its nutrients immediately, therefore it's best to drink fresh juice right away. </p>
     
-          <h5 class="card-title">Storing your Juice</h5>
-          <p class="card-text">We drink fresh fruit and veggie juice because it still has all its nutrients and enzymes. This means that the juice still has it's "life force". This life force is what will give you energy throughout the cleanse. Fresh juice begins to lose its nutrients immediately, therefore it's best to drink fresh juice right away. </p>
-    <p class="card-text">
-    The tips that follow will save you time in the kitchen by showing you how to store juices and keep as much of the life force intact as possible.
-    </p>
-        <ul class="list-group list-group-flush">
-        <li class="list-group-item">Try to avoid contact with light, heat, and air as they will cause juice to oxidize (losing its life force)
-    </li>
-        <li class="list-group-item">Keep the juice as cold as possible. If you have to store the juice for a while, make sure that the container is airtight and refrigerated.
-    </li>
-          <li class="list-group-item">Fill the juice all the way to the top to help reduce the amount of air that gets in.
-    </li>
-      </ul>
-        </div>
-    
- </div>
-  </div>
-
-  
-  </div>
-  </div>
-
-</div>
-<!-- <div class="card-group">
- 
-  <div class="card">
-    <img class="card-img-top" src="http://www.culinaryhealing.com/assets/images/juice.jpg" alt="Card image cap">
-    <div class="card-body">
-      <h5 class="card-title">Juice Recipes</h5>
-      <p class="card-text"></p>
+      <p class="card-text">
+      The tips that follow will save you time in the kitchen by showing you how to store juices and keep as much of the life force intact as possible.
+      </p>
       <ul class="list-group list-group-flush">
-    <li class="list-group-item"><a href="https://www.culinaryhealing21days.com/forum/liquids/kidney-flusher">Kidney Flusher</a></li>
-    <li class="list-group-item"><a href="https://www.culinaryhealing21days.com/forum/liquids/auset-s-green-juice">Auset's Green Juice</a></li>
-    <li class="list-group-item"><a href="https://www.culinaryhealing21days.com/forum/liquids/v-8-juice">v-8 Juice</a></li>
-  </ul>
+        <li class="list-group-item">Try to avoid contact with light, heat, and air as they will cause juice to oxidize (losing its life force)
+        </li>
+        <li class="list-group-item">Keep the juice as cold as possible. If you have to store the juice for a while, make sure that the container is airtight and refrigerated.
+        </li>
+        <li class="list-group-item">Fill the juice all the way to the top to help reduce the amount of air that gets in.
+        </li>
+      </ul>
     </div>
-  </div>
-  <div class="card">
-   <img class="card-img-top" src="http://www.culinaryhealing.com/assets/images/juice.jpg" alt="Card image cap"> 
     
-  </div>
-</div>
 
-<div class="alert alert-success" role="alert">
-            <h4 class="alert-heading">Still have Questions?</h4>
-              
-              <hr>
-              <p class="mb-0">Send an email to info@culinaryhealing . com</p>
-          </div>  -->
+ <!-- Ingredients -->
+   <div >
+        <?php include_once("includes/liquiding.html"); ?>
+      </div>
   
-  <div class="container">
+
     <div class="card-group">
     <!-- card 1 -->
       <div class="card">
@@ -221,7 +122,7 @@
       </div>
     </div>
      
- </div>
+
       
    <!-- Footer-->
           <div>
