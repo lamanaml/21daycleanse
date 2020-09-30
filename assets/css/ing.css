@@ -5,7 +5,7 @@
 
 body {
   background: #eceef1;
-  font-family: "Slabo 27px", serif;
+  font-family: 'Montserrat', sans-serif;
   color: #333a45;
 }
 
@@ -31,7 +31,7 @@ body {
   margin: 0;
   font-size: 1.0em;
   color: #949fb0;
-  font-family: "Yesteryear", cursive;
+  font-family: 'Montserrat', sans-serif;
   font-weight: 500;
   line-height: 1.1;
 }
