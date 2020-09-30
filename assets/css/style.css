@@ -1,8 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 
 body {
-    background: #3e4144;
-    font-family: 'Montserrat', sans-serif;
+       font-family: 'Montserrat', sans-serif;
 }
 .form {
     margin: 50px auto;
