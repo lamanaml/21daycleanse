@@ -68,6 +68,11 @@ body {
   background-color: #1abc9c;
   transform: scale(1.05);
 }
+
+.card:hover .card__inner2 {
+  background-color: #d6685a;
+  transform: scale(1.05);
+}
 .card__inner {
   width: 100%;
   padding: 30px;
