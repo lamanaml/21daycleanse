@@ -30,52 +30,51 @@
 
 
   <body id="resources">
-    <div class="nav-div">
+   
     
 <!-- navigation -->
+    <div class="nav-div"> 
       <?php include_once("includes/nav.html"); ?>
     </div>
-     
+
 
 <!-- content Body -->
 
-     <div class="container intro">  
-          <h3 > Resources</h3>
-         
-         <div class="media">
+    <div class="container intro">  
+      <h3 > Resources</h3>
 
-  <div class="media-body">
-    <h5 class="mt-0"><a href="substitutions.php">>> Food Substitutions</a></h5>
-    <hr>
-    
-  
-  </div>
-</div>
-   <div class="media">
-  <div class="media-body">
-    <h5 class="mt-0"><a href="#">>> Day By Day Roadmap</a></h5>
-    <hr>
-  </div>
+      <div class="media">
+        <div class="media-body">
+          <h5 class="mt-0"><a href="substitutions.php">>> Food Substitutions</a></h5>
+          <hr>
+        </div>
+      </div>
+      <div class="media">
+        <div class="media-body">
+        <h5 class="mt-0"><a href="#">>> Day By Day Roadmap</a></h5>
+        <hr>
+        </div>
+      </div>
+      <div class="media">
+        <div class="media-body">
+          <h5 class="mt-0"><a href="https://docs.google.com/document/d/1cC1dWrGP80H9j25vTLd2Q4wh21h8-jic8fuFtWKJB7I/edit">>> Weekly Menu Planning Template</a></h5>
+          <hr>
+        </div>
+      </div>
 
-  <div class="media-body">
-    <h5 class="mt-0"><a href="https://docs.google.com/document/d/1cC1dWrGP80H9j25vTLd2Q4wh21h8-jic8fuFtWKJB7I/edit">>> Weekly Menu Planning Template</a></h5>
-    <hr>
-  </div>
-</div>
-   <div class="media">
-      <div class="media-body">
-      <h5 class="mt-0"><a href="https://calendar.google.com/calendar/b/2?cid=Y3VsaW5hcnloZWFsaW5nQGdtYWlsLmNvbQ">>> Calendar</a></h5>
-      
-  </div>
-</div>
+      <div class="media">
+        <div class="media-body">
+        <h5 class="mt-0"><a href="https://calendar.google.com/calendar/b/2?cid=Y3VsaW5hcnloZWFsaW5nQGdtYWlsLmNvbQ">>> Calendar</a></h5>
         </div>
-        </div>
-     
-   
+      </div>
+
+    </div>
+
+
     <!-- Footer-->
-        <div>
+    <div>
       <?php include_once("includes/footer.html"); ?> 
-     </div>
+     /div>
 
       <!-- Scripts -->
       <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
