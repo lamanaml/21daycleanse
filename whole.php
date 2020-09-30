@@ -35,7 +35,7 @@
 <!-- navigation -->
 <div class="nav-div">
       <?php include_once("includes/nav.html"); ?>
-    </div>
+
      
   <!-- header -->
    
@@ -52,9 +52,9 @@
 
      
     </div>
-
+   <div >
         <?php include_once("includes/ingredients.html"); ?>
-
+      </div>
 
 
   <div class="row">
