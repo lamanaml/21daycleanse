@@ -1,11 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 
 body {
+    background: #3e4144;
     font-family: 'Montserrat', sans-serif;
 }
-.container{
-    background-color:#fff;
-    }
 .form {
     margin: 50px auto;
     width: 300px;
