@@ -48,7 +48,7 @@
     <h3 >What are Live (also know as Raw) foods?</h3>
     <p class="card-text">Live / raw foods are whole foods that have not been heated over a certain temperature, so they still have the vitamins, minerals, phytochemicals, and specifically the enzymes intact. 
     </p>
-    <p class="card-text" style="font-weight:bold">
+    <p class="card-text" >
     What are Enzymes?
     <ul>
       <li>Enzymes are the life force that conducts and directs every activity in our body.</li>
@@ -58,134 +58,21 @@
     </p>
     <p class="card-text">Enzymes are heat sensitive and destroyed at temperatures above 115 degrees. This is important because the purpose of eating is to provide our bodies with these nutrients and enzymes, and if they are destroyed through cooking, we are not giving our bodies what it needs... which defeats the point... right? 
     </p>
-      <p class="card-text">The terms Raw and Live are sometimes used interchangeably, however there is a slight difference.  Technically speaking, raw food is in a dormant state where the enzymes have not yet been activated.  So, for example, sunflower seeds are raw.  You can keep it indefinately and it will continue to be a seed.  However, if you soak the seed overnight (removing the enzyme inhibitors), it will start to grow a sprout.  Soaking it changes the state from raw to live, meaning the exzymes have become active and it can now produce life. Therefore, Live food is always Raw, but not all Raw food is Live.   
+      <p class="card-text">The terms Raw and Live are sometimes used interchangeably, however there is a slight difference.  Technically speaking, raw food is in a dormant state where the enzymes have not yet been activated.  So, for example, sunflower seeds are raw.  You can keep it indefinately and it will continue to be a seed.  However, if you soak the seed overnight (removing the enzyme inhibitors), it will start to grow a sprout.  Soaking it changes the state from raw to live, meaning the exzymes have become active and it can now produce life. Therefore, Live food is always Raw, but not all Raw food is Live.   In general, our diets should consist of at least 50% live foods. Eating live can mean something as simple as eating an apple or a salad, or can be so sophisticated that you will forget that it is raw! 
     </p>
     <p class="card-text">So, during this phase (days 3-7 and days 15-19), we will turn off the stoves and flood ourselves with nutrients and life giving enzymes!</p>
   </div>
 
           
-  
-
-        <div class="row">
-            <div class="col">
-          <div class="card mb-3">
-          <div class="card-body">
-            <h3 class="card-title">What can we eat?</h3>
-            <p class="card-text">In general, our diets should consist of at least 50% live foods. Eating live can mean something as simple as eating an apple or a salad, or can be so sophisticated that you will forget that it is raw! 
-        </p>
-
-
-        <ul class="list-group ">
-          <li class="list-group-item list-group-item-success"><h5>Fresh fruits (try to avoid seedless fruits)</h5>Including but not limited toApples, Pears, Citrus, Bananas, Berries, Coconuts, Tropical Fruit, Melons</li>
-            <li class="list-group-item list-group-item-success"><h5>Fresh veggies</h5>Green Leafy Vegetables, Root Vegetables, Peppers, Mushrooms</li>
-            <li class="list-group-item list-group-item-success"><h5>Sea veggies</h5> Nori, Dulse, Sea Moss, and Arame <p><a href="https://www.marksdailyapple.com/a-visual-guide-to-sea-vegetables/">>> Learn more about sea vegetables</a></p></li>
-          <li class="list-group-item list-group-item-success"  ><h5>Fermented Food</h5>Sauerkraut, Kimchee, Miso</li>
-          <li class="list-group-item list-group-item-success"> <h5>Sprouts</h5> Alfalfa Sprouts, Bean Sprouts, Sprouted grains
-          </li>
-          <li class="list-group-item list-group-item-success"><h5>Oils</h5>Grapeseed, Avocado, Extra Virgin Olive, Coconut               </li>
-          <li class="list-group-item list-group-item-success"><h5>Dried fruits</h5>Sun-dried Tomatoes, Figs, Dates, Raisins, Cranberries, Currants.  Try to find varieties with no sugar added </li>
-          <li class="list-group-item list-group-item-success"><h5>Seeds</h5>Sesame, Flax, Chia, Pumpkin, Sunflower, Hemp</li>
-
-          <li class="list-group-item list-group-item-success" ><h5>Salts And Salty Stuff</h5> Sea Salt, Crystal Salt, Liquid Aminos, Tamari, Shoyu
-        </li>
-          
-          <li class="list-group-item list-group-item-success"> <h5>Sweeteners</h5> Honey, Maple Syrup, Agave Nectar, And Stevia
-          </li>
-
-          <li class="list-group-item list-group-item-success"><h5>Herbs and Spices</h5>Thyme, Rosemary, Tumeric, Dried Spices, Fresh Herbs.  If you are using a spice blend, read the ingredients to make sure there are no forbidden ingredients. </li>
-   
-
-        </ul>
-
-        </div>
-        </div>
-            </div>
+   <!-- Ingredients -->
+   <div >
+        <?php include_once("includes/liveing.html"); ?>
+      </div>
 
 
 
 
-            <div class="col col2">
-              <div class="card mb-3">
-          <div class="card-body">
-            <h3 class="card-title"  >What should we avoid?</h3>
-            <p class="card-text">Any fruit or veggie that is warmed/dehydrated at a temperature greater than 115 degrees.
 
-        </p>
-
-             <ul class="list-group ">
-              <li class="list-group-item list-group-item-danger"><h5>COOKED FOOD</h5>Any food heated above 115 degrees</li>
-              <li class="list-group-item list-group-item-danger"><h5>Nuts </h5></li>
-        <li class="list-group-item list-group-item-danger"><h5>Packaged, boxed or processed juices</h5></li>
-              
-
-                <li class="list-group-item list-group-item-danger"><h5>Animal Protein</h5>Meat, Fish, Poultry, Eggs</li>
-                <li class="list-group-item list-group-item-danger"><h5>Processed Vegetarian Protein</h5>Tofu, Tempeh, And Other Mock Meats</li>
-                <li class="list-group-item list-group-item-danger"><h5>Nuts </h5></li>
-                <li class="list-group-item list-group-item-danger"><h5>Dairy </h5>Milk, Cheese, Butter, Yogurt, Kefir</li>
-                <li class="list-group-item list-group-item-danger"><h5>Fast Food </h5></li>
-                <li class="list-group-item list-group-item-danger"><h5>All Processed Foods</h5>Bread, Pasta, White Rice, White Sugar, Table Salt, Canned Foods
-              </li>
-                <li class="list-group-item list-group-item-danger"><h5>Artificial Ingredients</h5></li>
-                <li class="list-group-item list-group-item-danger"><h5>Artificial Colors</h5></li>
-                <li class="list-group-item list-group-item-danger"><h5>Hydrogenated Oils </h5>Margarine, Crisco, partially hydrogenated oil</li>
-                <li class="list-group-item list-group-item-danger"><h5> MSG also know as Monosodium Glutamate </h5></li>
-                <li class="list-group-item list-group-item-danger"><h5>Caffeine </h5>Coffee, teas with caffeine, Soda</li>
-                <li class="list-group-item list-group-item-danger"><h5>Drugs and Alcohol </h5></li>
-            </ul>
-        </div>
-          </div>
-          </div>
-          </div>
-
-
-        <!-- <div class="card-group">
-          <div class="card">
-            <img class="card-img-top" src="http://www.culinaryhealing.com/assets/images/foodexamples/breakfastlive.png" alt="Card image cap">
-            <div class="card-body">
-              <h5 class="card-title">Breakfast Recipes</h5>
-              <p class="card-text"></p>
-              <ul class="list-group list-group-flush">
-            <li class="list-group-item"><a href="https://www.culinaryhealing21days.com/forum/breakfast/breakfast-porridge">Breakfast Porridge</a></li>
-            <li class="list-group-item"><a href="https://www.culinaryhealing21days.com/forum/breakfast/smoothie-bowls">Smoothie Bowl</a></li>
-            <li class="list-group-item"><a href="https://www.culinaryhealing21days.com/forum/breakfast/fresh-apple-cinnamon-granola">Apple Cinnamon Granola</a></li>
-          </ul>
-            </div>
-          </div>
-          <div class="card">
-            <img class="card-img-top" src="http://www.culinaryhealing.com/assets/images/foodexamples/lunchlive.png" alt="Card image cap">
-            <div class="card-body">
-              <h5 class="card-title">Lunch Recipes</h5>
-              <p class="card-text"></p>
-              <ul class="list-group list-group-flush">
-            <li class="list-group-item"><a href="https://www.culinaryhealing21days.com/forum/entrees/raw-ramen-noodles">Raw Ramen Noodles</a></li>
-            <li class="list-group-item"><a href="https://www.culinaryhealing21days.com/forum/entrees/raw-sunflower-seed-pate-nori-rolls-with-spicy-mustard-dip">Nori Rolls with Spicy Mustard Sauce</a></li>
-            <li class="list-group-item"><a href="https://www.culinaryhealing21days.com/forum/whole-food/crunchy-thai-quinoa-salad">Crunchy Thai & Quinoa Salad</a></li>
-          </ul>
-            </div>
-          </div>
-          <div class="card">
-            <img class="card-img-top" src="http://www.culinaryhealing.com/assets/images/foodexamples/dinnerlive.png" alt="Card image cap">
-            <div class="card-body">
-              <h5 class="card-title">Dinner Recipes</h5>
-              <p class="card-text"></p>
-            <ul class="list-group list-group-flush">
-            <li class="list-group-item"><a href="https://www.culinaryhealing21days.com/forum/entrees/asian-lettuce-wraps">Asian Lettuce Wraps</a></li>
-            <li class="list-group-item"><a href="https://www.culinaryhealing21days.com/forum/entrees/zucchini-pasta-with-tomato-sauce">Zucchini Pasta with Tomato Sauce</a></li>
-            <li class="list-group-item"><a href="https://www.culinaryhealing21days.com/forum/entrees/herb-encrusted-mushroom-steaks">Herb Encrusted Mushroom Steaks</a></li>
-          </ul>
-            </div>
-          </div>
-        </div> -->
-
-        <!-- <div class="alert alert-success" role="alert">
-                    <h4 class="alert-heading">Still have Questions?</h4>
-                      
-                      <hr>
-                      <p class="mb-0">Send an email to info@culinaryhealing . com</p>
-                  </div> 
-           -->
-
-             <div class="container">
     <div class="card-group">
     <!-- card 1 -->
       <div class="card">
@@ -229,7 +116,7 @@
     </div> 
             
         </div>
-              </div>
+          
    <!-- Footer-->
          <div>
       <?php include_once("includes/footer.html"); ?> 
