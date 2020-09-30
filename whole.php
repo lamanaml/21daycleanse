@@ -30,9 +30,10 @@
 
 
   <body id="whole">
-    <div class="nav-div">
+    
     
 <!-- navigation -->
+<div class="nav-div">
       <?php include_once("includes/nav.html"); ?>
     </div>
      
