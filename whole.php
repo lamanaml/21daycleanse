@@ -35,11 +35,11 @@
 <!-- navigation -->
 <div class="nav-div">
       <?php include_once("includes/nav.html"); ?>
-
+    </div>
      
   <!-- header -->
-   
-    <h1 class="container">Whole Foods</h1>
+   <div class="container">
+    <h1 >Whole Foods</h1>
          
 <!-- content Body -->
    <div class="container intro">  
@@ -199,7 +199,7 @@
     </div>
 
       
-
+</div>
           
           </div>
     <!-- </div> -->
