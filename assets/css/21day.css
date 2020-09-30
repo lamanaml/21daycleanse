@@ -21,10 +21,21 @@ body {
   background-color: #fff;
 }
 .headerImg {
-
   padding:0px;
   margin-bottom:30px;
 }
+
+h1 { 
+  color: #111; 
+  font-family: 'Helvetica Neue', sans-serif; 
+  font-size: 275px; 
+  font-weight: bold; 
+  letter-spacing: -1px; 
+  line-height: 1; 
+  text-align: center; }
+
+
+
 .default {
     list-style-type: disc !important;
     padding-left: 1em;
@@ -153,7 +164,7 @@ input[type="submit"] {
     margin: 0 auto;
 }
 
-#div_login h1{
+#div_login {
     margin-top: 0px;
     font-weight: normal;
     padding: 10px;
