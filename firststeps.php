@@ -79,9 +79,10 @@
       </div>
       
 
-    <div class="container" style="padding:50px;">
-      <h1 class="display-4">The Roadmap</h1>
-      <img src="http://www.culinaryhealing.com/assets/images/planall.png" width="100%" >
+    <div class="container" >
+        <div>
+        <?php include_once("includes/roadmap.html"); ?> 
+      </div>
     </div>
 
 <!-- Whats the deal with section -->
