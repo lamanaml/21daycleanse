@@ -4,7 +4,7 @@
 
 body {
   background: #eceef1;
-   font-family: 'Montserrat', sans-serif;
+  font-family: "Slabo 27px", serif;
   color: #333a45;
 }
 
@@ -28,9 +28,9 @@ body {
 }
 .header__subtitle {
   margin: 0;
-  font-size: 1em;
+  font-size: 1.5em;
   color: #949fb0;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Yesteryear", cursive;
   font-weight: 500;
   line-height: 1.1;
 }
@@ -100,7 +100,7 @@ body {
           align-items: center;
   text-transform: uppercase;
   color: #eceef1;
-  font-size: 1em;
+  font-size: 1.5em;
 }
 .card__expander .fa {
   font-size: 0.75em;
