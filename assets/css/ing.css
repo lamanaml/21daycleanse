@@ -9,7 +9,9 @@ body {
   font-family: 'Montserrat', sans-serif;
   color: #333a45;
 }
-
+.nav-div, .intro {
+  background-color: #fff;
+}
 .container {
   background-color: #fff;
 }
