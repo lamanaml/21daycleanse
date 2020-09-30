@@ -66,7 +66,7 @@ body {
   padding: 30px;
   position: relative;
   cursor: pointer;
-  /* background-color: #949fb0; */
+  background-color: #949fb0;
   color: #eceef1;
   font-size: 1.5em;
   text-transform: uppercase;
@@ -82,14 +82,14 @@ body {
 }
 .card__expander {
   transition: all 0.2s ease-in-out;
-  background-color: lightgray;
+  background-color: #333a45;
   width: 100%;
   position: relative;
   display: flex;
   justify-content: center;
   align-items: center;
   text-transform: uppercase;
-  color:  #333a45;
+  color:  #fff;
   font-size: .75em;
    z-index: 5;
 }
