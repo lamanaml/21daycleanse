@@ -29,7 +29,7 @@ body {
 }
 .header__subtitle {
   margin: 0;
-  font-size: 1.5em;
+  font-size: .75em;
   color: #949fb0;
   font-family: "Yesteryear", cursive;
   font-weight: 500;
@@ -90,7 +90,7 @@ body {
   align-items: center;
   text-transform: uppercase;
   color: #eceef1;
-  font-size: 1.5em;
+  font-size: .75em;
    z-index: 5;
 }
 .card__expander .fa {
