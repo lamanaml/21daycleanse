@@ -39,8 +39,9 @@
      
    
 <!-- Header -->
-          <img src="assets/images/pagetitles/livefood.png" class="headerImg" width="100%"  > 
-
+        
+   <div class="container">
+    <h1 >Live Food</h1>
 
   <!-- content Body -->
   <div class="container intro">  
@@ -228,7 +229,7 @@
     </div> 
             
         </div>
-              
+              </div>
    <!-- Footer-->
          <div>
       <?php include_once("includes/footer.html"); ?> 

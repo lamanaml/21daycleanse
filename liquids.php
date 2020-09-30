@@ -37,8 +37,8 @@
      
    
 <!-- Header -->
-    <img src="assets/images/pagetitles/liquids.png" class="headerImg" width="100%" > 
-
+      <div class="container">
+    <h1 >Liquids</h1>
   <!-- content Body -->
      <div class="container intro">  
   
@@ -150,7 +150,7 @@
   </div>
   </div>
 
-
+</div>
 <!-- <div class="card-group">
  
   <div class="card">

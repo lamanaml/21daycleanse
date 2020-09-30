@@ -39,7 +39,8 @@
      
    
 <!-- Header -->
-    <img src="assets/images/pagetitles/firststeps.png" class="headerImg" width="100%"  >   
+      <div class="container">
+    <h1 >First Steps</h1>
 
     
   <!-- content Body -->    
@@ -329,6 +330,7 @@
       </div>
     </div>
 
+ </div>
  </div>
 <!-- Footer-->
       <div>

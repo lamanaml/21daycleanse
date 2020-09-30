@@ -41,7 +41,7 @@
 <!-- Header -->
 <!-- content Body -->
      <div class="container intro">  
-          <h3>Food Substitution Chart</h3>
+          <h1>Food Substitution Chart</h1>
             <p class="card-text">One major step in becoming healthier is making better food choices. The foods below are healthier options that you can swap out in your favorite recipes. Reading labels is very important. The main ingredients that we should avoid are:
               <ul>
                 <li>Hydrogenated oils</li>
