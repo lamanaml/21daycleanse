@@ -39,6 +39,7 @@
      
   <!-- header -->
     <img src="assets/images/pagetitles/wholefood.png" class="headerImg" width="100%" > 
+    <h1>Whole Foods</h1>
          
 <!-- content Body -->
    <div class="container intro">  
