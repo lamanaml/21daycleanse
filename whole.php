@@ -39,7 +39,7 @@
      
   <!-- header -->
    
-    <h1>Whole Foods</h1>
+    <h1 class="container">Whole Foods</h1>
          
 <!-- content Body -->
    <div class="container intro">  
