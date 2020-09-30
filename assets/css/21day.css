@@ -13,14 +13,12 @@ body {
   background-color: #fff;
   flex: 1;
 }
-
 .card-text {
   font-family: 'Montserrat', sans-serif;
   font-size: 16px;
 }
-.nav-div {
+.nav-div, .intro {
   background-color: #fff;
-  
 }
 .headerImg {
 
