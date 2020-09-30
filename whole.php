@@ -58,7 +58,7 @@
 
   <div class="row">
 <!-- col 1 -->
-    <div class="col">
+    <!-- <div class="col">
       <div class="card mb-3">
         <div class="card-body">
           <h3 class="card-title">What can we eat?</h3>
@@ -79,9 +79,9 @@
           </ul>
         </div>
       </div>
-    </div>
+    </div> -->
 <!-- col 2 -->
-    <div class="col col2">
+    <!-- <div class="col col2">
       <div class="card mb-3">
         <div class="card-body">
           <h3 class="card-title">What should we avoid?</h3>
@@ -107,7 +107,7 @@
        </div>
       </div>
     </div>
-  </div>
+  </div> -->
 
   <!-- <div class="container">
     <div class="card-group"> -->
