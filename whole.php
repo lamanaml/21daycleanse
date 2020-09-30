@@ -50,6 +50,10 @@
 
      
     </div>
+   <div class="nav-div">
+        <?php include_once("includes/ingredients.html"); ?>
+      </div>
+
 
   <div class="row">
 <!-- col 1 -->

@@ -57,11 +57,8 @@
                 
             </div>
       
+ <div class="container ">  
 
-<div class="row">
-    <div class="col">
-  <div class="card mb-3">
-  <div class="card-body">
     <h3 class="card-title">What can we drink?</h3>
    
 </p>
