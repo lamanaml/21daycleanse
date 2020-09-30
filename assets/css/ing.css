@@ -1,7 +1,7 @@
 @charset "UTF-8";
 * {
   box-sizing: border-box;
-  background-color: #fff;
+
 }
 
 body {
@@ -10,7 +10,9 @@ body {
   color: #333a45;
 }
 
-
+.container {
+  background-color: #fff;
+}
 
 .wrapper {
   margin: 5em auto;
