@@ -132,7 +132,11 @@ body {
 }
 
 .card.is-expanded .card__inner2 {
-  background-color: red
+  background-color: #1abc9c;
+}
+.card.is-expanded .card__inner2 {
+  background-color: red;
+}
 .card.is-expanded .card__inner:after {
   content: "";
   opacity: 1;
