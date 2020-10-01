@@ -26,6 +26,10 @@ body {
 .nav-div, .intro {
   background-color: #fff;
 }
+
+.nav-item {
+font-weight: bold;
+}
 .headerImg {
   padding:0px;
   margin-bottom:30px;
