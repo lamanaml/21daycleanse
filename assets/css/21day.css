@@ -27,7 +27,7 @@ body {
   background-color: #fff;
 }
 
-.nav-item {
+.nav-item, .dropdown-item {
 font-weight: bold;
 font-size:12px;
 }
