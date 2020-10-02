@@ -42,7 +42,10 @@
 
     <div class="container intro">  
       <h1> Resources</h1>
-
+ <div class="container intro">  
+   <p class="card-text"> Below are a few tools and resources that will help us out along the way! </p>
+      <div>
+      </div>
       <div class="media">
         <div class="media-body">
           <h5 class="mt-0"><a href="substitutions.php">>> Food Substitutions</a></h5>
@@ -51,7 +54,7 @@
       </div>
       <div class="media">
         <div class="media-body">
-        <h5 class="mt-0"><a href="#">>> Day By Day Roadmap</a></h5>
+        <h5 class="mt-0"><a href="firststeps.php#roadmap">>> Day By Day Roadmap</a></h5>
         <hr>
         </div>
       </div>
