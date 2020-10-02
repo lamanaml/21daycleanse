@@ -30,7 +30,6 @@
 
 
   <body id="resources">
-   
     
 <!-- navigation -->
     <div class="nav-div"> 
@@ -39,13 +38,12 @@
 
 
 <!-- content Body -->
-
     <div class="container ">  
       <h1> Resources</h1>
       <div class="container intro">  
-         <p class="card-text"> Below are a few tools and resources that will help us out along the way! </p>
+        <p class="card-text"> Below are a few tools and resources that will help us out along the way! </p>
       </div>
-     
+    
       <div class="media">
         <div class="media-body">
           <h5 class="mt-0"><a href="substitutions.php">>> Food Substitutions</a></h5>
@@ -72,7 +70,7 @@
         </div>
       </div>
 
-         <div class="media">
+        <div class="media">
         <div class="media-body">
         <h5 class="mt-0"><a href="faqs.php">>> FAQ's</a></h5>
         </div>
@@ -84,7 +82,7 @@
     <!-- Footer-->
     <div>
       <?php include_once("includes/footer.html"); ?> 
-     </div>
+    </div>
 
       <!-- Scripts -->
       <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
