@@ -64,7 +64,7 @@
 
       <div class="media">
         <div class="media-body">
-        <h5 class="mt-0"><a href="https://calendar.google.com/calendar/b/2?cid=Y3VsaW5hcnloZWFsaW5nQGdtYWlsLmNvbQ">>> Calendar</a></h5>
+        <h5 class="mt-0"><a href="https://calendar.google.com/calendar/b/2?cid=Y3VsaW5hcnloZWFsaW5nQGdtYWlsLmNvbQ">>> Sync with your Calendar</a></h5>
         </div>
       </div>
 
