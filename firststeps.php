@@ -80,11 +80,9 @@
       
 
     <div class="container" >
-        <div >
-          <a id="roadmap">
-        <?php include_once("includes/roadmap.html"); ?> 
-        </a>
-      </div>
+        <div id="roadmap" >
+          <?php include_once("includes/roadmap.html"); ?> 
+         </div>
     </div>
 
 
