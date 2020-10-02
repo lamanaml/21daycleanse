@@ -41,42 +41,12 @@
 <!-- content Body -->
 
     <div class="container intro">  
-      <h1> Resources</h1>
-
-      <div class="media">
-        <div class="media-body">
-          <h5 class="mt-0"><a href="substitutions.php">>> Food Substitutions</a></h5>
-          <hr>
-        </div>
-      </div>
-      <div class="media">
-        <div class="media-body">
-        <h5 class="mt-0"><a href="#">>> Day By Day Roadmap</a></h5>
-        <hr>
-        </div>
-      </div>
-      <div class="media">
-        <div class="media-body">
-          <h5 class="mt-0"><a href="https://docs.google.com/document/d/1cC1dWrGP80H9j25vTLd2Q4wh21h8-jic8fuFtWKJB7I/edit">>> Weekly Menu Planning Template</a></h5>
-          <hr>
-        </div>
-      </div>
-
-      <div class="media">
-        <div class="media-body">
-        <h5 class="mt-0"><a href="https://calendar.google.com/calendar/b/2?cid=Y3VsaW5hcnloZWFsaW5nQGdtYWlsLmNvbQ">>> Sync with your Calendar</a></h5>
-        </div>
-      </div>
-
-         <div class="media">
-        <div class="media-body">
-        <h5 class="mt-0"><a href="faqs.php">>> FAQ's</a></h5>
-        </div>
-      </div>
-
-
-    </div>
-
+      <h1> FAQ's</h1>
+   <p class="card-text">Below are some common questions that folks have during the cleanse.  If you have additional questions, please let me know!  </p>
+      
+   <div>
+      <?php include_once("includes/faq.html"); ?> 
+     </div>
     <!-- Footer-->
     <div>
       <?php include_once("includes/footer.html"); ?> 
