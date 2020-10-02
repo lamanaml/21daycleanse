@@ -40,11 +40,11 @@
 
 <!-- content Body -->
 
-    <div class="container intro">  
+    <div class="container ">  
       <h1> Resources</h1>
- <div class="container intro">  
-   <p class="card-text"> Below are a few tools and resources that will help us out along the way! </p>
-      <div>
+      <div class="container intro">  
+         <p class="card-text"> Below are a few tools and resources that will help us out along the way! </p>
+      </div>
       </div>
       <div class="media">
         <div class="media-body">
