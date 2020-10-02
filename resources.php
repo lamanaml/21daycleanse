@@ -45,7 +45,7 @@
       <div class="container intro">  
          <p class="card-text"> Below are a few tools and resources that will help us out along the way! </p>
       </div>
-      </div>
+     
       <div class="media">
         <div class="media-body">
           <h5 class="mt-0"><a href="substitutions.php">>> Food Substitutions</a></h5>
