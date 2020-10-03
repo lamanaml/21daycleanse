@@ -68,6 +68,8 @@
             <p class="card-text">Live food - Live foods are fruit, veggies and sprouts that have not been heated above 115 degrees, so the enzymes are still intact.  </p><p><a href="live.php" class="btn btn-primary">Learn More</a></p>
           </div>
         </div>
+      </div>
+         <div class="card-group ">
 
         <div class="card shadow p-3 mb-5 bg-white rounded">
           <img src="http://www.culinaryhealing.com/assets/images/juice4.jpg" class="card-img-top"  class="rounded-bottom"alt="imag">
@@ -84,6 +86,7 @@
             <p class="card-text">We will do distilled water for 21 hours during the cleanse... Why?</p><p><a href="water.php" class="btn btn-primary">Learn More</a></p>
           </div>
         </div>
+              </div>
 
        <!-- Roadmap  -->
     <div class="container" >
