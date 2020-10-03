@@ -76,8 +76,6 @@
             <p class="card-text">Liquids - Fresh fruit and veggie juice, coconut water, broths, herbal tea, and water!</p><p><a href="liquids.php" class="btn btn-primary">Learn More</a></p>
           </div>
         </div>
-      </div>
-      
 
         <div class="card shadow p-3 mb-5 bg-white rounded">
          <!-- <img src="http://www.culinaryhealing.com/assets/images/raw3.jpg" class="card-img-top" class="rounded-bottom" alt="..."> -->
@@ -86,6 +84,8 @@
             <p class="card-text">We will do distilled water for 21 hours during the cleanse... Why?</p><p><a href="water.php" class="btn btn-primary">Learn More</a></p>
           </div>
         </div>
+
+       <!-- Roadmap  -->
     <div class="container" >
         <div id="roadmap" >
           <?php include_once("includes/roadmap.html"); ?> 
