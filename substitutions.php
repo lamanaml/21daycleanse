@@ -48,8 +48,8 @@
                 <li>Partially hydrogenated oils</li>
                 <li>Monosodium Glutamate (aka MSG).</li>
                 <li>High fructose corn syrup</li>
-                <li>Artifical Sweeteners (including aspertame and sucrulose - aka spenda)</li>
-                <li>rtificial Colors</li>
+                <li>Artificial Sweeteners (including Aspertame and Sucrolose - aka Splenda)</li>
+                <li>Artificial Colors</li>
               </ul>
 
 Below is a more extensive list of ingredients to avoid, and healthier substitutions for each.</p>
@@ -63,8 +63,8 @@ Below is a more extensive list of ingredients to avoid, and healthier substituti
                 <tr valign="top" class="small">
                   <td style="bgcolor:yellow">white sugar, corn syrup, syrups (like log cabin) </td>
                   <td><ul>
-                      <li>rapadura</li>
-                      <li>sucanat</li>
+                      <li>Rapadura</li>
+                      <li>Sucanat</li>
                       <li>florida crystals </li>
                       <li>maple syrup</li>
                       <li>barley malt syrup </li>
@@ -130,7 +130,7 @@ Below is a more extensive list of ingredients to avoid, and healthier substituti
                   <td><ul>
                       <li>almond flour</li>
                       <li> sprouted grains </li>
-                  </ul></td>
+                  </ul></td> 
                 </tr>
                 <tr valign="top" class="small">
                   <td bgcolor="yellow">white bread </td>
