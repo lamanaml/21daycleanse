@@ -60,9 +60,11 @@ table tr:nth-child(2n+1) {
 @media screen and (max-width: 700px) {
   table, tr, td {
     display: block;
-
   }
-  th
+
+  .days:before {
+    content: 'Days:';
+  }
 
   td:first-child {
     position: absolute;
