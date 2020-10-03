@@ -60,8 +60,7 @@ table tr:nth-child(2n+1) {
 @media screen and (max-width: 700px) {
   table, tr, td {
     display: block;
-    vertical-align: top;
-    
+
   }
 
   td:first-child {
@@ -79,7 +78,8 @@ table tr:nth-child(2n+1) {
     text-align: left;
   }
   td:not(:first-child):before {
-    color: #91ced4;
+    background-color: #91ced4;
+    color:white;
     content: 'Days';
     display: block;
     left: 0;
