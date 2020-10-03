@@ -63,7 +63,7 @@ table tr:nth-child(2n+1) {
   }
 
   .days:before {
-    content: 'Days:';
+    content: 'Days: ';
   }
 
   td:first-child {
