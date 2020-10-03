@@ -64,7 +64,7 @@ table tr:nth-child(2n+1) {
 
   .days:before {
     content: 'Days: ';
-  }
+  }m
 
   td:first-child {
     position: absolute;
@@ -118,7 +118,7 @@ table tr:nth-child(2n+1) {
     text-shadow: 2px 2px 0 rgba(0, 0, 0, 0.1);
   }
 
-  img {
+  imgRM {
     border: 3px solid;
     border-color: #daeff1;
     height: 100px;
