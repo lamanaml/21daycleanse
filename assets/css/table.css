@@ -110,7 +110,7 @@ table tr:nth-child(2n+1) {
   .header {
     background-color: transparent;
     color:gray;
-    font-size: 2em;
+    font-size: 1.5em;
     font-weight: 700;
     padding: 0;
     text-shadow: 2px 2px 0 rgba(0, 0, 0, 0.1);
