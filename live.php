@@ -80,8 +80,8 @@
         <div class="card-body">
           <h3 class="card-title">Recipe Scavenger Hunt</h3>
           <p class="card-text">
-         After we fully understand the Live food criteria, let's take to the internet (or cookbooks) and find our own breakfast and lunch/dinner recipes! Try to find at least 2 good recipes!  Remember, the recipe is only a guide, not the law.  We can swap out ingredients, omit or add items to suit our needs.  This exercise will help inspire our own creativity.</p> 
-         <p class="card-text">Once we find them,  <a href="http://culinaryhealing21days.com/notes/"> let's share them in the daily discussion!  </a>  Ready, set, gooo! </p>
+        Now, let's take to the internet (or <a href="https://www.amazon.com/s?k=raw+cookbooks&ref=nb_sb_noss_1">cookbooks</a>) and find our own breakfast and lunch/dinner recipes! Try to find at least 2 good recipes!  Remember, the recipe is only a guide, not the law.  We can swap out ingredients, omit or add items to suit our needs.  This exercise will help inspire our own creativity.</p> 
+        <p class="card-text">Once we find them,  <a href="http://culinaryhealing21days.com/notes/"> let's share them in the daily discussion!  </a>  </p>
         </div>
       </div>
 
@@ -106,11 +106,9 @@
           Let's put our knowledge into action.  Next, we will build a grocery list then go shopping!.  
           At the store, shop mostly the outside perimeter of the grocery store (where the produce is - avoiding the processed food. ) and read labels, and have fun! </p>
            <p class="card-text">Check out 
-           <a href="https://goo.gl/photos/pM5K7iXArpyrzHqc9">photos from a typical grocery store run!</a>  </p>
+           <a href="https://photos.app.goo.gl/GQA7bjiGPrUWvUAT8">some photos of live food from previous grocery store runs!</a>  </p>
         </div>
 
-
-        
         </div>
       </div>
     </div> 
