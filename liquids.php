@@ -94,7 +94,7 @@
           <h3 class="card-title">Recipe Scavenger Hunt</h3>
           <p class="card-text">
          After we fully understand the criteria for liquids, let's take to the internet (or cookbooks) and find our own recipes! Try to find at least 2 good recipes!  Since juice contains higher concentrations of vitamins and minerals, it can be a great alternative to supplements.  If you are lacking in vitamins, find fruits and veggies high in that nutrient and add it to your juice!   Remember, the recipe is only a guide, not the law.  We can swap out ingredients, omit or add items to suit our needs.  This exercise will help inspire our own creativity.</p> 
-         <p class="card-text">Once we find them,  <a href="https://www.facebook.com/groups/341803323478066/">post it to the discussion group</a> (or send them to me via email)!  Ready, set, gooo! </p>
+         <p class="card-text">Once we find them,  <a href="http://culinaryhealing21days.com/notes/">, let's share them in the daily discussion!    Ready, set, gooo! </p>
         </div>
       </div>
 
