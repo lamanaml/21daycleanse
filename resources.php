@@ -37,6 +37,8 @@
     </div>
 
 
+
+
 <!-- content Body -->
     <div class="container ">  
       <h1> Resources</h1>
@@ -57,6 +59,13 @@
         <hr>
         </div>
       </div>
+ <div class="media">
+        <div class="media-body">
+        <h5 class="mt-0"><a href="https://photos.app.goo.gl/tKLJs2cwN6ZnkEYq6">>> Photo Tour of my Pantry</a></h5>
+        <hr>
+        </div>
+      </div>
+
       <div class="media">
         <div class="media-body">
           <h5 class="mt-0"><a href="https://docs.google.com/document/d/1cC1dWrGP80H9j25vTLd2Q4wh21h8-jic8fuFtWKJB7I/edit">>> Menu Planner</a></h5>
