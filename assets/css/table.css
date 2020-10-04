@@ -111,7 +111,6 @@ table tr:nth-child(2n+1) {
     display: none;
   }
 }
-
 @media screen and (max-width: 500px) {
   .header {
     background-color: transparent;
