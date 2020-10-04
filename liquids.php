@@ -52,8 +52,28 @@
         <p class="card-text">        
         During this phase (days 7-14) we will consume fresh nutrient-dense fruit and vegetable juices, herbal teas and water! While water alone may leave us feeling drained, freshy pressed juices will give us an energy surge. The nutrients in the juice will be absorbed by all the cells in our bodies, allowing them to immediately repair and restore our bodies at the cellular level. 
         </p>
+    </div>
     
-      <h3 class="card-title">Tips</h3>
+
+ <!-- Ingredients -->
+   <div >
+        <?php include_once("includes/liquiding.html"); ?>
+      </div>
+  
+
+    <div class="card-group">
+    <!-- card 1 -->
+      <div class="card">
+        <!-- <img class="card-img-top" src="http://www.culinaryhealing.com/assets/images/foodexamples/breakfast.png" alt="Card image cap"> -->
+        <div class="card-body">
+          <h3 class="card-title">Recipe Scavenger Hunt</h3>
+          <p class="card-text">
+         After we fully understand the criteria for liquids, let's take to the internet (or cookbooks) and find our own recipes! Try to find at least 2 good recipes!  Since juice contains higher concentrations of vitamins and minerals, it can be a great alternative to supplements.  If you are lacking in vitamins, find fruits and veggies high in that nutrient and add it to your juice!   Remember, the recipe is only a guide, not the law.  We can swap out ingredients, omit or add items to suit our needs.  This exercise will help inspire our own creativity.</p> 
+         <p class="card-text">Once we find them,  <a href="https://www.facebook.com/groups/341803323478066/">post it to the discussion group</a> (or send them to me via email)!  Ready, set, gooo! </p>
+        </div>
+      </div>
+<div>
+ <h3 class="card-title">Tips</h3>
       <h5 class="card-title">Cleaning  fruits and veggies</h5>
       <p class="card-text"> Fill your sink with cold water, add 4 tablespoons of salt and the juice of a lemon. Soak the fruits and veggies for 10 minutes then rinse under cold water. 1/4 cup of vinegar can be substituted for lemon.</p>
 
@@ -75,26 +95,9 @@
         <li class="list-group-item">Fill the juice all the way to the top to help reduce the amount of air that gets in.
         </li>
       </ul>
-    </div>
-    
+</div>
 
- <!-- Ingredients -->
-   <div >
-        <?php include_once("includes/liquiding.html"); ?>
-      </div>
-  
 
-    <div class="card-group">
-    <!-- card 1 -->
-      <div class="card">
-        <!-- <img class="card-img-top" src="http://www.culinaryhealing.com/assets/images/foodexamples/breakfast.png" alt="Card image cap"> -->
-        <div class="card-body">
-          <h3 class="card-title">Recipe Scavenger Hunt</h3>
-          <p class="card-text">
-         After we fully understand the criteria for liquids, let's take to the internet (or cookbooks) and find our own recipes! Try to find at least 2 good recipes!  Since juice contains higher concentrations of vitamins and minerals, it can be a great alternative to supplements.  If you are lacking in vitamins, find fruits and veggies high in that nutrient and add it to your juice!   Remember, the recipe is only a guide, not the law.  We can swap out ingredients, omit or add items to suit our needs.  This exercise will help inspire our own creativity.</p> 
-         <p class="card-text">Once we find them,  <a href="https://www.facebook.com/groups/341803323478066/">post it to the discussion group</a> (or send them to me via email)!  Ready, set, gooo! </p>
-        </div>
-      </div>
 
 <!-- card 2 -->
       <div class="card">
