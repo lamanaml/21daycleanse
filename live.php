@@ -106,7 +106,7 @@
           Let's put our knowledge into action.  Next, we will build a grocery list then go shopping!.  
           At the store, shop mostly the outside perimeter of the grocery store (where the produce is - avoiding the processed food. ) and read labels, and have fun! </p>
            <p class="card-text">Check out 
-           some <a href="https://photos.app.goo.gl/GQA7bjiGPrUWvUAT8">photos of live food </a> from previous grocery store runs!</a>  </p>
+           some <a href="https://photos.app.goo.gl/GQA7bjiGPrUWvUAT8">photos of live food </a>beans from previous grocery store runs!</a>  </p>
         </div>
 
         </div>
