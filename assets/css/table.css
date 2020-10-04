@@ -112,18 +112,6 @@ table tr:nth-child(2n+1) {
   }
 }
 
-.type:nth-child(2):before {
-    content: 'Brand:';
-  }
-  td:nth-child(3):before {
-    content: 'Summary:';
-  }
-  td:nth-child(4):before {
-    content: 'Recipes:';
-  }
-  td:nth-child(5):before {
-    content: 'Comments:';
-  }
 @media screen and (max-width: 500px) {
   .header {
     background-color: transparent;
