@@ -60,6 +60,12 @@
       <h5 class="card-title">Storing your Juice</h5>
       <p class="card-text">We drink fresh fruit and veggie juice because it still has all its nutrients and enzymes. This means that the juice still has it's "life force". This life force is what will give you energy throughout the cleanse. Fresh juice begins to lose its nutrients immediately, therefore it's best to drink fresh juice right away. </p>
     
+
+ <div >
+        <?php include_once("includes/juicers.html"); ?>
+      </div>
+
+
       <p class="card-text">
       The tips that follow will save you time in the kitchen by showing you how to store juices and keep as much of the life force intact as possible.
       </p>
