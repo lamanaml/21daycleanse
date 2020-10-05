@@ -75,7 +75,7 @@ Below is a more extensive list of ingredients to avoid, and healthier substituti
                   </ul></td>
                   <td><ul>
                       <li>rapadura</li>
-                      <li>sucanat</li>
+                      <li>Sucanat</li>
                       <li>florida crystals </li>
                       <li>maple syrup</li>
                       <li>barley malt syrup </li>
