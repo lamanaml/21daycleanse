@@ -53,7 +53,7 @@
           That said, for this phase, you will need a juicer.  To get the juice from fruits and veggies, we must use a JUICER, not a BLENDER.  A blender will mix the liquid with the fiber, while a juicer will extract the liquid, separating it from the fiber.  </p>
               
 
-     <h3> Veggies that are high in protein</h3>
+     <!-- <h3> Veggies that are high in protein</h3>
 <ul class="default">
   <li>Asparagus</li>   
   <li> Beet Greens</li>
@@ -68,7 +68,7 @@
     <li>Sprouts </li>
     <li>Tomatoes</li>
     <li>Turnip Greens </li>
-</ul>
+</ul> -->
 
     </div>
      <div>
