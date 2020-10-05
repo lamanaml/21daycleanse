@@ -9,14 +9,17 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>21-Day Cleanse - Water - Culinary Healing</title>
    <meta name="robots" content="noimageindex, noindex, nofollow, nosnippet">
+   
 <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-26808506-1"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'UA-26808506-1');
-    </script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-26808506-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-26808506-2');
+</script>
+
 
     
     
