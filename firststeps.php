@@ -53,7 +53,7 @@
       <div class="card-group ">
       
         <div class="card shadow p-3 mb-5 bg-white rounded">
-          <img src="http://www.culinaryhealing.com/assets/images/whole.jpg" class="card-img-top" class="rounded-bottom" alt="...">
+          <img src="assets/images/whole.jpg" class="card-img-top" class="rounded-bottom" alt="...">
           <div class="card-body">
             <h5 class="card-title">Whole Food</h5>
             <p class="card-text">  Whole foods - Whole foods are simply whole, unprocessed foods that exist as close to their natural state as possible. </p>
@@ -62,7 +62,7 @@
         </div>
 
         <div class="card shadow p-3 mb-5 bg-white rounded">
-          <img src="http://www.culinaryhealing.com/assets/images/raw3.jpg" class="card-img-top" class="rounded-bottom" alt="...">
+          <img src="assets/images/raw3.jpg" class="card-img-top" class="rounded-bottom" alt="...">
           <div class="card-body">
             <h5 class="card-title">Live/Raw Food</h5>
             <p class="card-text">Live food - Live foods are fruit, veggies and sprouts that have not been heated above 115 degrees, so the enzymes are still intact.  </p><p><a href="live.php" class="btn btn-primary">Learn More</a></p>
@@ -72,7 +72,7 @@
          <div class="card-group ">
 
         <div class="card shadow p-3 mb-5 bg-white rounded">
-          <img src="http://www.culinaryhealing.com/assets/images/juice4.jpg" class="card-img-top"  class="rounded-bottom"alt="imag">
+          <img src="assets/images/juice4.jpg" class="card-img-top"  class="rounded-bottom"alt="imag">
           <div class="card-body">
             <h5 class="card-title">Liquids</h5>
             <p class="card-text">Liquids - Fresh fruit and veggie juice, coconut water, broths, herbal tea, and water!</p><p><a href="liquids.php" class="btn btn-primary">Learn More</a></p>
@@ -80,7 +80,7 @@
         </div>
 
         <div class="card shadow p-3 mb-5 bg-white rounded">
-         <!-- <img src="http://www.culinaryhealing.com/assets/images/raw3.jpg" class="card-img-top" class="rounded-bottom" alt="..."> -->
+         <img src="assets/images/water.jpg" class="card-img-top" class="rounded-bottom" alt="...">
           <div class="card-body">
             <h5 class="card-title">Water</h5>
             <p class="card-text">We will do distilled water for one day, about half-way through the cleanse... Why?</p><p><a href="water.php" class="btn btn-primary">Learn More</a></p>
