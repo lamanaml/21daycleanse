@@ -50,26 +50,27 @@
             Since processed foods have already been "processed", meaning that much of the fiber and nutrition has been removed, our bodies are able not to extract much, and without the fiber, is not able to dispose of it as efficiently.  Our bodies are more likely to store processed foods as toxins.  These toxins will be covered with a layer of a mucus for protection until it can figure out how to get rid of it.</p>
         <p class="card-text">During the whole food phase (days 1, 2, 20 and 21), we will enjoy cooked and raw whole foods! Because these foods are unprocessed, our digestive systems will be able to process them more efficiently, and extract the nutrients that we need. </p>
         <p class="card-text">Need a little inspiration?  Check out some <a href="https://goo.gl/photos/pM5K7iXArpyrzHqc9">images of Whole Food meals</a>!</p>
+        <h4>Storing Fruits and Veggies</h4>
+        <p class="card-text">Fruits and veggies are perishable, and there is a lot of variation in the different types of fruits and veggies. Here are my tips:</p>
+        <ul>
+          <li>purchase only enough fruits and veggies to last for 2-3 days.</li>
+          <li>buy a combination of ripe and unripe items (bananas and avocados). eat the ripe ones now, and the unripe ones will last for a few extra days</li>
+          <li>keep most fruits and veggies in the refrigerator</li>
+          <li>when fruits and veggies get close to the point where they may start going bad, freeze them. (peel and slice bananas first)</li>
+          <li>wash and slice other veggies for easy use later, cook and freeze if you can. so go ahead and prepare a meal, then freeze it for a quick meal later</li>
+          <li>don't wash berries until you are going to use them</li>
+          <li>wash fresh herbs (parsley, basil, cilantro...) shake them dry and roll them into a damp paper towel</li>
+          <li>wash and prep fruits and veggies and store them.  This will save time and allow you to throw together a quick meal. </li>
+        </ul>
+        <p class="card-text">Having the produce in an easy to use state will make it more convenient for you to use and you will use it quicker. </p>
+
+
     </div>
 
     <!-- Ingredients -->
    <div >
         <?php include_once("includes/wholeing.html"); ?>
       </div>
-
-<h4>Storing Fruits and Veggies</h4>
- <p class="card-text">Fruits and veggies are perishable, and there is a lot of variation in the different types of fruits and veggies. Here are my tips:</p>
-<ul>
-<li>purchase only enough fruits and veggies to last for 2-3 days.</li>
-<li>buy a combination of ripe and unripe items (bananas and avocados). eat the ripe ones now, and the unripe ones will last for a few extra days</li>
-<li>keep most fruits and veggies in the refrigerator</li>
-<li>when fruits and veggies get close to the point where they may start going bad, freeze them. (peel and slice bananas first)</li>
-<li>wash and slice other veggies for easy use later, cook and freeze if you can. so go ahead and prepare a meal, then freeze it for a quick meal later</li>
-<li>don't wash berries until you are going to use them</li>
-<li>wash fresh herbs (parsley, basil, cilantro...) shake them dry and roll them into a damp paper towel</li>
-<li>wash and prep fruits and veggies and store them.  This will save time and allow you to throw together a quick meal. </li>
-</ul>
-<p class="card-text">Having the produce in an easy to use state will make it more convenient for you to use and you will use it quicker. </p>
 
 
 

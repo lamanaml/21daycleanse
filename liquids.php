@@ -43,29 +43,35 @@
      <div class="container intro">  
   
       <h3 >What are Liquids?</h3>
+       <p class="card-text">        
+        During this phase (days 7-14) we will consume fresh nutrient-dense fruit and vegetable juices, herbal teas and water! While water alone may leave us feeling drained, freshly pressed juices will give us an energy surge. The nutrients in the juice will be absorbed by all the cells in our bodies, allowing them to immediately repair and restore our bodies at the cellular level. 
+        </p>
         <p class="card-text">Liquids mean that no fiber is present.  Removing fiber allows our digestive systems slow down enough to start to reintroduce the stored toxins back into our bloodstream so they can be eliminated.  This, my friends, is called detoxing.  This is where the magic happens. </p> 
 
         <p class="card-text">The key to the liquids phase is to avoid all fiber.  If we keep to strictly juice with no cheating, within 3 days our hunger should subside along with the detox symptoms.  </p>
         <p class="card-text"> 
           That said, for this phase, you will need a juicer.  To get the juice from fruits and veggies, we must use a JUICER, not a BLENDER.  A blender will mix the liquid with the fiber, while a juicer will extract the liquid, separating it from the fiber.  </p>
-        
-        <p class="card-text">        
-        During this phase (days 7-14) we will consume fresh nutrient-dense fruit and vegetable juices, herbal teas and water! While water alone may leave us feeling drained, freshy pressed juices will give us an energy surge. The nutrients in the juice will be absorbed by all the cells in our bodies, allowing them to immediately repair and restore our bodies at the cellular level. 
-        </p>
+              
+
+     <h3> Veggies that are high in protein</h3>
+<ul>
+  <li>Asparagus</li>   
+  <li> Beet Greens</li>
+    <li>Broccoli </li>
+    <li>Cabbage</li>
+    <li>Cauliflower</li>
+    <li>Collard Greens</li>
+    <li>Kale</li>
+    <li>Mustard Greens</li>
+    <li>Spinach</li>
+    <li>Swiss Chard</li>
+    <li>Sprouts </li>
+    <li>Tomatoes</li>
+    <li>Turnip Greens </li>
+</ul>
+
     </div>
-    
-
- <!-- Ingredients -->
-   <div >
-        <?php include_once("includes/liquiding.html"); ?>
-      </div>
-  
-
-       <div >
-        <?php include_once("includes/juicers.html"); ?>
-      </div>
- 
-      <div>
+     <div>
       <h3 class="card-title">Tips</h3>
             <h5 class="card-title">Cleaning  fruits and veggies</h5>
             <p class="card-text"> Fill your sink with cold water, add 4 tablespoons of salt and the juice of a lemon. Soak the fruits and veggies for 10 minutes then rinse under cold water. 1/4 cup of vinegar can be substituted for lemon.</p>
@@ -86,21 +92,19 @@
       </ul>
 </div>
 
-<!-- Well, below are some vegetables that contain a fair amount of protein, so be sure to add these to your juices!
+ <!-- Ingredients -->
+   <div >
+        <?php include_once("includes/liquiding.html"); ?>
+      </div>
+  
 
-•    Asparagus
-•    Beet Greens
-•    Broccoli 
-•    Cabbage
-•    Cauliflower
-•    Collard Greens
-•    Kale
-•    Mustard Greens
-•    Spinach
-•    Swiss Chard
-•    Sprouts 
-•    Tomatoes
-•    Turnip Greens -->
+       <div >
+        <?php include_once("includes/juicers.html"); ?>
+      </div>
+ 
+     
+
+
 
    <div class="card-group">
     <!-- card 1 -->
