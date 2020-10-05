@@ -69,7 +69,7 @@
 <li>wash fresh herbs (parsley, basil, cilantro...) shake them dry and roll them into a damp paper towel</li>
 <li>wash and prep fruits and veggies and store them.  This will save time and allow you to throw together a quick meal. </li>
 </ul>
-<h4>Having the produce in an easy to use state will make it more convenient for you to use and you will use it quicker. </h4>
+<p class="card-text">Having the produce in an easy to use state will make it more convenient for you to use and you will use it quicker. </p>
 
 
 
