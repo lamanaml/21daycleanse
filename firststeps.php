@@ -83,7 +83,7 @@
          <img src="assets/images/recipes/water.jpg" class="card-img-top" class="rounded-bottom" alt="...">
           <div class="card-body">
             <h5 class="card-title">Water</h5>
-            <p class="card-text">We will do distilled water for one day, about half-way through the cleanse... Why?</p><p><a href="water.php" class="btn btn-primary">Learn More</a></p>
+            <p class="card-text">Distilled water is void of all vitamins, minerals and nutrients.  We have this at the peak of our cleanse, leaving toxins with nothing to survive on.</p><p><a href="water.php" class="btn btn-primary">Learn More</a></p>
           </div>
         </div>
               </div>
