@@ -54,7 +54,7 @@
               
 
      <h3> Veggies that are high in protein</h3>
-<ul>
+<ul class="default">
   <li>Asparagus</li>   
   <li> Beet Greens</li>
     <li>Broccoli </li>
