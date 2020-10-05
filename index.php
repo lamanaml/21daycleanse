@@ -48,7 +48,7 @@
 
         <p class="card-text"> This cleanse is organized to be gradual so that we experience a minimal amount of detox symptoms. The first week is designed to slowly release toxins that have been stored in our bodies for many years. During the second week we will flood our systems with liquids that provide nutrients that will heal and rebuild our bodies on a cellular level. During the third week we will slowly reintroduce foods and make notes of how they make us feel. Using this feedback from our bodies, we will be able to optimize our diets. </p>
 
-        <p class="card-text">Each one of us will have a slightly different experience with some days being more challenging than others, but  through this we will see what we are made of (literally).  We will purge, heal and rejoice.  We will cry and laugh.  We will break through the stronghold that food and toxins have had on us, and start a new journey... stronger, healthier and free. Let's go! </p>
+        <p class="card-text">Each one of us will have a slightly different experience with some days being more challenging than others, but  through this we will see what we are made of (literally).  We will purge, heal and rejoice.  We will cry and we will laugh.  We will break through the stronghold that food and toxins have had on us, and start a new journey... stronger, healthier and free. Let's go! </p>
        
       </div>
 
