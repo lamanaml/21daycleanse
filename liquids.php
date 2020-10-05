@@ -86,6 +86,22 @@
       </ul>
 </div>
 
+<!-- Well, below are some vegetables that contain a fair amount of protein, so be sure to add these to your juices!
+
+•    Asparagus
+•    Beet Greens
+•    Broccoli 
+•    Cabbage
+•    Cauliflower
+•    Collard Greens
+•    Kale
+•    Mustard Greens
+•    Spinach
+•    Swiss Chard
+•    Sprouts 
+•    Tomatoes
+•    Turnip Greens -->
+
    <div class="card-group">
     <!-- card 1 -->
       <div class="card">
