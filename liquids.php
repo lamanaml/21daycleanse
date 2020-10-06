@@ -59,7 +59,8 @@
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
   data-link="https://photos.google.com/share/AF1QipMuq6qiXDICR-4JFf6VfxCwXDOz8lSUYufUOimSnlWTIGr_nVrdI-8jRgdnQF7SyA?key=OFk1WGxuVHQ3VFVYWmhfWmxkd3lOa0ZhODBoWFZn"
   data-title="liquid phase"
-  data-description="21 new photos · Album by LaMana Donadelle">
+  data-description="21 new photos · Album by LaMana Donadelle"
+  data-background-color="#ffffff">
   <object data="https://lh3.googleusercontent.com/7tnGcEh6Uf7Jp0ZJcKLHA_4bNcijxHOrYjIWt2QPcCSE25Cw29gzBxCHpim6es_epnK2Mok3i6J1TumOX6ycyTyacfmu9J9HZkXDbxCNqMWj3fVlLvBLaegqcF566mlYd_Ab_-4t4QU=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/12Bqr725JaUa4YM75rVfHqGYCovXsQ9wqksRLFCJaD5GXexB0ppTQ0grO-2HYA5_6uhsoeAR2-UWkWq0R3cMHcHO0mcUS95musSCpeS-JbwUxf-xukNRvggklKw4lzzvvep5tcfPOFI=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/g6eBdVYnacaMw6KGmHA1QO99L_U7LidGptOTvI1oJxaTDu3vM9HKksG-_ePItRzQvRcLX2ZXux9AWugT_KjDuvVy0Sm3RwP7mHprLi4NUtHcuY2FGpQEZpk-EKNYD_vwcWNhCvMZ_Y0=w1920-h1080"></object>
