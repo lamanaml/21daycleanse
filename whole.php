@@ -148,6 +148,7 @@
 </div>
 
 <!-- Tips -->
+
         <h4>Storing Fruits and Veggies</h4>
         <p class="card-text">Fruits and veggies are perishable, and there is a lot of variation in the different types of fruits and veggies. Here are my tips:</p>
         <ul>

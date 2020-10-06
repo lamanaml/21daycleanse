@@ -53,7 +53,36 @@
         <p class="card-text">The key to the liquids phase is to avoid all fiber.  If we keep to strictly juice with no cheating, within 3 days our hunger should subside along with the detox symptoms.  </p>
         <p class="card-text"> 
           That said, for this phase, you will need a juicer.  To get the juice from fruits and veggies, we must use a JUICER, not a BLENDER.  A blender will mix the liquid with the fiber, while a juicer will extract the liquid, separating it from the fiber.  </p>
-              
+               </div>
+
+               <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
+<div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
+  data-link="https://photos.google.com/share/AF1QipMuq6qiXDICR-4JFf6VfxCwXDOz8lSUYufUOimSnlWTIGr_nVrdI-8jRgdnQF7SyA?key=OFk1WGxuVHQ3VFVYWmhfWmxkd3lOa0ZhODBoWFZn"
+  data-title="liquid phase"
+  data-description="21 new photos · Album by LaMana Donadelle">
+  <object data="https://lh3.googleusercontent.com/7tnGcEh6Uf7Jp0ZJcKLHA_4bNcijxHOrYjIWt2QPcCSE25Cw29gzBxCHpim6es_epnK2Mok3i6J1TumOX6ycyTyacfmu9J9HZkXDbxCNqMWj3fVlLvBLaegqcF566mlYd_Ab_-4t4QU=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/12Bqr725JaUa4YM75rVfHqGYCovXsQ9wqksRLFCJaD5GXexB0ppTQ0grO-2HYA5_6uhsoeAR2-UWkWq0R3cMHcHO0mcUS95musSCpeS-JbwUxf-xukNRvggklKw4lzzvvep5tcfPOFI=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/g6eBdVYnacaMw6KGmHA1QO99L_U7LidGptOTvI1oJxaTDu3vM9HKksG-_ePItRzQvRcLX2ZXux9AWugT_KjDuvVy0Sm3RwP7mHprLi4NUtHcuY2FGpQEZpk-EKNYD_vwcWNhCvMZ_Y0=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/YvM700vX_69LReJXwsDFouDIo0sF4AoAmikqnZICQ_ei3Kpcx6nNz3H5zX_g13IY-AIiK5_ahkpZlF0ED-CAXUBDvYpvZcrR5b6bdoS5SLekgbUUcnmi8x3hsEOLRl4__v-3eBsQD6c=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/VWMbBBbf5DDgD1t9emmPX4DY1YJrBic2RweYLMtNWaJo-dzVbFVxMJGoc-XZ7n6tzInQiCORAR_CxDetTfMnmbW9duvZw4pIzh2G3aDTjbp1AuD4e418LigWu_wFzQnlmFSKUgru0N0=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/15_yV-dso0SrNhO4c-MYprVzby13oL-tw6wG-wJW4k9f24YEopWZ60-RsGf56ZeR1dxHLJYJKrWytFhnfyNzZgpfOGSxE8zS1rV00C7KfuX3q7UoAQySVu-lCu1gJaEwNu4REzrKSpc=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/sWcB77vQnXWfajLqvmulRc9vKxhHsKFsDYC5xW7opdg0neOhB9iU8VV0QOotjJPggYuPDUGh5c2M8j7AFQTarP6Fg6N-TzovVKRP5wcemhjHlZ7t0H0HjIUb-9nTKE6zl5CAwPXvqi0=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/6dzuMdzk1yWBx3nr1hCirS_V8Hp6z3eGKUJj3Rf7FcCiVrkmcyMaIsE4hph3iRP_KiOMj0OoM7_Dnp3dTZncnWnA5ETYEnUYVVFprmavJid2slMIR_5RIDP1o8tEmXN1ezFd5ltUark=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/rZI4mMCd-DBpEgoJObq1PRrEc8HBnhVvx_wdHwq5IXyRVHQ4kUBb5PSyeDfo8McDWMhDKsNgqIUtQQWvihNnJeopD82YZCZ8oQ0J-oG6YZkGrDtMb2jA7Gbk5WJJ-J4vyn_HWeH0mAE=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/nn2Kei34GmJR_GJNzonerwKPpCAjqhWPHqOFsG9QRsn-mMg1y_BozSG3Y0PT25W-BZMzOEhyyI_tziDUAE_iXdz_-5DLh2xpekDN-YenFzo3AVuk4RNcQf21JABKZ0EwQXp92kcsLNg=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/kujs7z1wKqwEtHW2ykrPVb1K9ajSMKikMNjNXE2-MCu4tmNCSPw9wOsJkNMGFp8OVxtVgAzVPlSpnYEP0QllnAj-8brrEgbkb8MesOoK9U1x5Y9SFfRinqtSOb_k48FGn2dnxrCF7Qg=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/IvIyDU53g1bRVIdZzxjpVb0Tv90o47AEpE7HnwdJ8Kv7zuYSrmTuwkvdWVQkXsmL0cP5fY9AzJJEiRpPDzbeg1bdmuWNtGGkr68QQh5ylBuJJKh8mCCYbduakt8YB4F4X6WjLf7hiBU=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/cYDZOq8mabZqrgcVBIjwKRRfSMQp1basngY-5ZEt2QWcRLZL3acxV3MCKXcmxIAbiSdgGuGTtsm6BxCJIH1tvxzBs2W0PB1t8xU_mtJQahZg_KaIte_NMu0fMEaxJ9dbq2lEAB9X_5U=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/r8TFJ5u1DWQCIAgAcUTKX_n_L4RyQFSzYZDfPakNpJQk5rhE8ol07eBdoT5FY0x0UIFpUMYe2T8mE9l6hFpgurfMFp3zLO5JCd0Yy3yx-P44tM52_uYIn7QBUlQiCyarPeR6If0lkpc=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/BjfkPGgRJDLrXZ5FQ2xR2aXsEcsnhXfb9oLnCNUh5kTiKgFYFPqPMV5gb10Kp9KWxeP3RXCD_tf6D9YZkqejN5CQ8VbaB4nWo4GBamjWe6-0xPhR2hPN9hC5mB6pDDCMGtwBJGn135w=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/DtCChGwov54X7mVgzYabagvBCEDD0-VqhmYr1zoO4OuJqEcl6h_5w6fL2PCyhql9fO6uZu0eLZneExc56uJvLhKdPODXcvo3u3oHnEidkIQeiSaU2mnbBv8u9TqB410I4DuJiQ503j0=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/9Ofl8I-a68UrEp2t_M9Om_T7p5-0AeJ1VmKFuBxSBOFpgqA_rQJ0xcjZhbwKuWF7pf-89X-nzwjBvcC5ruHm5edv6uHITiIQe9soa1sqGbg1lbaJR7CzcM2vYOtVGtjAbb7EOK4F7BA=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/UXPE6smsSGKnTV-5WSCWOWAccPQLA14DUmMsg5qn6mDkapUCFpNVbVtgD8V8rgMiQL9F4xDu4ZMaFcsZuBBTexi8AuTy7cM_4NaCYW079znh_SMI81WCMuvOYAiGD_FTPxlBGTsr3Sc=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/t25bqZFIsDzxS4cFopxjcjJ1JeStDItoreBYJItDu7JwCcGJ9SQ_5MP2Vdpo2yxLvkO3A3Fwqva5s8w9rMoh2S77ADgn6pZmqwKTTTX8KtnsssSaqYJWUmUV_9XXATViLmwVw0-Ge4U=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/QkCIfZLULzM2L0mgRShNLEgxpjbDlparZJ6MkSOlslzDStQRmimBSbGPgV6UOSzvPbSwyKAztthUoUaezWZdST7ZzZ1qyILYD9wFXb4poeProsaGjOCuPt7dxZHETKVI2H_DErbOjr0=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/Lx_qiLkWVUVyzk69WCFQ2Qo5MuP3leQbYUqH982GWFOqX7TLMaC5TG6OdS8wVBtxc_jm9irPCX1g9CDKY2xhUyoUhDNRx2lZaKLUc-VzsPOnBY6hZKe32COG65X7G4JY2yF2cS4qZzY=w1920-h1080"></object>
+</div>
+
 
      <!-- <h3> Veggies that are high in protein</h3>
 <ul class="default">
@@ -72,7 +101,7 @@
     <li>Turnip Greens </li>
 </ul> -->
 
-    </div>
+   
      <div>
       <h3 class="card-title">Tips</h3>
             <h5 class="card-title">Cleaning  fruits and veggies</h5>
