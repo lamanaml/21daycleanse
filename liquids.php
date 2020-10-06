@@ -56,7 +56,7 @@
                </div>
 
                <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
-<div class="pa-carousel-widget" style="width:640px; height:480px; display:none;"
+<div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
   data-link="https://photos.google.com/share/AF1QipMuq6qiXDICR-4JFf6VfxCwXDOz8lSUYufUOimSnlWTIGr_nVrdI-8jRgdnQF7SyA?key=OFk1WGxuVHQ3VFVYWmhfWmxkd3lOa0ZhODBoWFZn"
   data-title="liquid phase"
   data-description="21 new photos · Album by LaMana Donadelle">
