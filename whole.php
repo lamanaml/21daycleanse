@@ -51,9 +51,10 @@
          <p class="card-text"> Our bodies are designed to process food from it's whole natural state.  We can extract the nutrients, and dispose of it very efficiently.  
             Since processed foods have already been "processed", meaning that much of the fiber and nutrition has been removed, our bodies are able not to extract much, and without the fiber, is not able to dispose of it as efficiently.  Our bodies are more likely to store processed foods as toxins.  These toxins will be covered with a layer of a mucus for protection until it can figure out how to get rid of it.</p>
         <p class="card-text">During the whole food phase (days 1, 2, 20 and 21), we will enjoy cooked and raw whole foods! Because these foods are unprocessed, our digestive systems will be able to process them more efficiently, and extract the nutrients that we need. </p>
-        <p class="card-text">Need a little inspiration?  Check out some <a href="https://goo.gl/photos/pM5K7iXArpyrzHqc9">images of Whole Food meals</a>!</p>
+        <p class="card-text">Need a little inspiration?  Check out some images of Whole Food meals!</p>
 
         <!-- Carousel -->
+        <div class="container">
        <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
   data-link="https://photos.google.com/share/AF1QipOy2TG16rEhW7hyOwyDv3Smt6LzstQBjZQ7hkg8O20HCcJIHoVBd3Vc2CR2evhiJg?key=WnAxWXVQVWNhTHZnUHBReXRsM1h2bTBwMmh1TExB"
@@ -143,6 +144,7 @@
   <object data="https://lh3.googleusercontent.com/i2IYqowqG7zjIvAdBSIazkSJ39BBCix1Qd2pIT3ZkOXG_xMOM6b-SDBKWwd_puDmTPdxcwWsoZt3nrCXI3jlqvLlcyI4_BIApf6LpmT5MwoG6ab_nf6ToIwZqSCEKO1-M71wfeJBgRU=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/3Qcf92brBUkzeQYak8KKclOOSwoyH2ZvLcCiKSzlcSy-ue7UK4KaeW_3JB9zjfZWnzdmGuD7v3b20KM6TtMuNQe7UzJAcyIhJ6x3zaFguvbicuRpD06g8Pv8j0aZeonotQKkAoauOSg=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/c82YJNOmwNPi6zqL63U-6WsZoZi6q7QfREAu3kbPug6wEjHFiD9foYE-McDuPTBW-c93nx1bSCZayAic_E-c_xB8vFyIQrGp26_LUVSbLz6mtRY3oVeM_GNhwlOyfuP9asdyD-Psykk=w1920-h1080"></object>
+</div>
 </div>
 
 <!-- Tips -->
