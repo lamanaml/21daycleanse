@@ -49,15 +49,15 @@
   <!-- content Body -->
         <div class="container intro">  
           <h3 >The Water Phase</h3>
-           <p class="card-text">All throughout the cleanse, we will need to incorporate water to help flush toxins out of our system.  During the one day water phase we only drink distilled water.  No tea, no juice, no lemon in the water, no supplements.. just distilled water.   The reason is that on water day we want to completely deprive toxins of all vitamins, minerals, other nutrients, which are found in other types of waters. 
+           <p class="card-text">During each phase we will need to incorporate water to help flush out toxins in our system.  During the one day water phase we only drink distilled water.  No tea, no juice, no lemon in the water, no supplements.. just distilled water.   The reason is that on water day we want to completely deprive toxins of all vitamins, minerals, other nutrients, which are found in other types of waters. 
           </p> 
-          <p class="card-text">Drink at least 8 cups of water throughout the day to stay hydrated. Distilled water is best for the water day because it actually goes in and pulls out toxins from the organs. It literally pulls out the trash that gets caught in the follicles of the colon that breeds disease.</p> 
+          <p class="card-text">Drink at least 8 cups of water throughout the day to stay hydrated. Distilled water is best for the Water Day because it pulls out the toxins from your organs.  It literally pulls out the trash that gets caught in the follicles of the colon that breeds disease.</p> 
           <p class="card-text">The most important thing for this day is to stay at peace.  Go out to a park and just relax, stay in bed all day, meditate, pray, relax on the beach, do some yoga. I forbid you to do anything strenuous this day...I mean it! </p> 
 
 
 
           <h5>What can we do?</h5>
-          We can get through the day the best way that we can.  Here are a few recommended activities. 
+          We will make it through this day, together, the best we can.  Here are a few recommended activities. 
           <ul class="default">
             <li>Rest</li>
             <li>Sleep</li>
