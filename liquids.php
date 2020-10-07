@@ -45,16 +45,14 @@
      <div class="container intro">  
   
       <h3 >What are Liquids?</h3>
-       <p class="card-text">        
+        <p class="card-text">Liquids mean that no fiber is present.  Removing fiber allows our digestive systems slow down enough to start to reintroduce the stored toxins back into our bloodstream so they can be eliminated.  This, my friends, is called detoxing.  This is where the magic happens. </p> 
+        <p class="card-text">        
         During this phase (days 7-14) we will consume fresh nutrient-dense fruit and vegetable juices, herbal teas and water! While water alone may leave us feeling drained, freshly pressed juices will give us an energy surge. The nutrients in the juice will be absorbed by all the cells in our bodies, allowing them to immediately repair and restore our bodies at the cellular level. 
         </p>
-        <p class="card-text">Liquids mean that no fiber is present.  Removing fiber allows our digestive systems slow down enough to start to reintroduce the stored toxins back into our bloodstream so they can be eliminated.  This, my friends, is called detoxing.  This is where the magic happens. </p> 
-
         <p class="card-text">The key to the liquids phase is to avoid all fiber.  If we keep to strictly juice with no cheating, within 3 days our hunger should subside along with the detox symptoms.  </p>
         <p class="card-text"> 
           That said, for this phase, you will need a juicer.  To get the juice from fruits and veggies, we must use a JUICER, not a BLENDER.  A blender will mix the liquid with the fiber, while a juicer will extract the liquid, separating it from the fiber.  </p>
-
-                                <p class="card-text">Need a little inspiration?  Check out some images of Liquid meals from folks over the years!</p>
+        <p class="card-text">Need a little inspiration?  Check out some images of Liquid meals from folks over the years!</p>
                </div>
 
  
@@ -199,7 +197,7 @@
 
 
 <h4>Centrifugal Juicers</h4>
-<p class="card-text">Centrifugal juicers have a wide mouth to feed your fruits and veggies into, which means you can cut into larger slices, saving money.  With this machine, your veggies and fruits are pushed through a chute into a fast-spinning mesh basket with a grated bottom. The produce is shredded and spun, sending the juice through the mesh and into a pitcher while the pulp goes into a separate basket. </p>
+<p class="card-text">Centrifugal juicers have a wide mouth to feed your fruits and veggies into, which means you can cut into larger slices, saving time.  With this machine, veggies and fruits are pushed through a chute into a fast-spinning mesh basket with a grated bottom. The produce is shredded and spun, sending the juice through the mesh and into a pitcher while the pulp goes into a separate basket. </p>
 
 <p class="card-text">With these, the high-speed spinning causes the juice to oxidize faster than it would with slower speed juicers. For this reason, it’s best to drink juices from a centrifugal juicer right away to ensure the most nutrients and best flavor and color. However, if saving some juice for later means that you drink more juice, then by all means store your juice in an airtight mason jar and keep it in the fridge till you’re ready to enjoy it.  They also aren’t very good with certain leafy greens, sprouts or herbs. </p>
 
