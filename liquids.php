@@ -211,7 +211,7 @@ Popular choices for twin gear juicers: Samson Green Power, Green Star Elite Ju
             <p class="card-text"> Fill your sink with cold water, add 4 tablespoons of salt and the juice of a lemon. Soak the fruits and veggies for 10 minutes then rinse under cold water. 1/4 cup of vinegar can be substituted for lemon.</p>
 
       <h5 class="card-title">Storing Juice</h5>
-      <p class="card-text">We drink fresh fruit and veggie juice because it still has all its nutrients and enzymes. This means that the juice still has it's "life force". This life force is what will give you energy throughout the cleanse. Fresh juice begins to lose its nutrients immediately, therefore it's best to drink fresh juice right away. </p>
+      <p class="card-text">We drink fresh fruit and veggie juice because it still has all its nutrients and enzymes. This means that the juice still has it's "life force". This life force is what will give you energy throughout the cleanse. Depending on the type of juicer, fresh juice can begin to lose its nutrients immediately, therefore it's best to drink fresh juice right away. </p>
     
       <p class="card-text">
       The tips that follow will save you time in the kitchen by showing you how to store juices and keep as much of the life force intact as possible.
