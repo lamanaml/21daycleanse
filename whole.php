@@ -202,21 +202,6 @@
 
 </div>
 
-<!-- Tips -->
-
-        <h4>Storing Fruits and Veggies</h4>
-        <p class="card-text">Fruits and veggies are perishable, and there is a lot of variation in the different types of fruits and veggies. Here are my tips:</p>
-        <ul class="default">
-          <li>purchase only enough fruits and veggies to last for 2-3 days.</li>
-          <li>buy a combination of ripe and unripe items (bananas and avocados). eat the ripe ones now, and the unripe ones will last for a few extra days</li>
-          <li>keep most fruits and veggies in the refrigerator</li>
-          <li>when fruits and veggies get close to the point where they may start going bad, freeze them. (peel and slice bananas first)</li>
-          <li>wash and slice other veggies for easy use later, cook and freeze if you can. so go ahead and prepare a meal, then freeze it for a quick meal later</li>
-          <li>don't wash berries until you are going to use them</li>
-          <li>wash fresh herbs (parsley, basil, cilantro...) shake them dry and roll them into a damp paper towel</li>
-          <li>wash and prep fruits and veggies and store them.  This will save time and allow you to throw together a quick meal. </li>
-        </ul>
-        <p class="card-text">Having the produce in an easy to use state will make it more convenient for you to use and you will use it quicker. </p>
 
 
     </div>
@@ -226,7 +211,22 @@
         <?php include_once("includes/wholeing.html"); ?>
       </div>
 
-
+<!-- Tips -->
+<div class="container"></div>
+        <h4>Storing Fruits and Veggies</h4>
+        <p class="card-text">Fruits and veggies are perishable, and should be purchased close to the time that they will be prepared.  Here are a few tips to get the most life out of produce:</p>
+        <ul class="default">
+          <li>Try to find recipes that use the same ingredients, this makes it more likely to use it all up</li>
+          <li>Purchase only enough fruit and veggies to last for 2-3 days.</li>
+          <li>Purchase combination of ripe and unripe items (bananas and avocados). Eat the ripe ones first, and the unripe ones will last for a few extra days</li>
+          <li>Wash and prep fruits and veggies soon after purchasing them, then store them.  This will save time and allow for quicker meal prep </li>
+          <li>Wash fresh herbs (parsley, basil, cilantro...) shake them dry and roll them into a damp paper towel</li>
+          <li>Don't wash berries until you are going to use them</li>
+          <li>Keep most fruits and veggies in the refrigerator</li>
+          <li>When fruits and veggies get close to the point where they may start going bad, freeze them. (peel and slice bananas first)</li>
+        </ul>
+        <p class="card-text">Having the produce in an easy-to-use state will make our refrigerators more approachable, and reduce meal prep times! </p>
+</div>
 
   <div class="row">
    <div class="container">
