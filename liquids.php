@@ -43,7 +43,9 @@
         <h1 >Liquids</h1>
   <!-- content Body -->
      <div class="container intro">  
-  
+    <div style="float:right; width:20%">
+        <?php include_once("includes/roadmapmini.html"); ?>
+      </div>
       <h3 >What are Liquids?</h3>
         <p class="card-text">Liquids mean that no fiber is present.  Removing fiber allows our digestive systems slow down enough to start to reintroduce the stored toxins back into our bloodstream so they can be eliminated.  This, my friends, is called detoxing.  This is where the magic happens. </p> 
         <p class="card-text">        

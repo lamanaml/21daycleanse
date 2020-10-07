@@ -42,6 +42,9 @@
 <!-- Header -->
       <div class="container">
         <h1 >Water</h1>
+          <div style="float:right; width:20%">
+        <?php include_once("includes/roadmapmini.html"); ?>
+      </div>
   <!-- content Body -->
         <div class="container intro">  
           <h3 >The Water Phase</h3>
