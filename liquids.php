@@ -61,8 +61,8 @@
                
         <!-- Carousel -->
         <div class="container carousel">
-<script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
-<div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
+          <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
+<div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
   data-link="https://goo.gl/photos/Y2k7BUHbd9SfpHnp6"
   data-title="Liquid Meals"
   data-description="67 new photos · Album by LaMana Donadelle"
@@ -133,7 +133,9 @@
   <object data="https://lh3.googleusercontent.com/Qan57n6MlgKgLilmPZqoDyUAuhD4OhpQcyHmdvKKFBuX4cPO3-F7uCxWvKFnO59CPgAZcgP2IsIKAX1h4QJRz9Kcu2sBMHPAoWjVa7QsmyJHDziitTkRV2WskmgkQmIPQ1NJIkz6Vvo=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/vwhMx6Zx8HjkHTBeOryfbrEJ-4FeVXJUCZsPE_T07iz4XULyjsIxBwwaft4WT_1Nol47JNLlAspWkjBJdlu2D64d29u0KJVXUEJn4tsk_mdncXxJeQ3Z1znS5JIWQ7WhUWYFpK0KV28=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/alaG45N5DO7mZZ6KvoozxzP1GzBa8FxLdmKFrzzhzUjk1vJFG4AmT7LcyogDJxlObLQcWGUH94_2B010zeJlE3sm8YmMEJMOzfzVGS-qtHD0O_B65y4NOdFFvIhBjzd6b5rRYxzLOSg=w1920-h1080"></object>
-  
+  <object data="https://lh3.googleusercontent.com/Cq1KUVQjfAJsKb9LrX7Ouf-0RFfARqA4VGbshfcmf7-VEpqg9v5r45OeiTGdEkU5xPjozah3IYfSTjt9EE-abXONSGgp0cprXULZwzYhjkno5Rrv6uXtwskiSdP4Kc6aMJHFcmdxL2o=w1920-h1080"></object>
+</div>
+
 </div>
 
                
