@@ -191,7 +191,7 @@
 
    <p class="card-text">A juicer separates the fiber from the rest of the fruit or vegetables. This leaves only the juice for you to drink. … A blender processes the whole fruit or vegetable, including the fiber. This makes a thicker drink (usually called a smoothie). Smoothies are excellent to drink, but during a detox, they will keep our digestive systems running, slowing down the detox, and will cause us to feel prolonged hunger.</p>
 
-   <p class="card-text">There are 4 different types of juicers, Centrifugal, Masticating, Twin Gear, Citrus Juicer.</p>
+   <p class="card-text">There are different types of juicers, Centrifugal, Masticating, Twin Gear, Press and Citrus Juicer.</p>
 
 <p class="card-text">If you plan to juice often, even beyond the cleanse, or have health issues where a high quality juice is needed, you may want to invest in the masticating or twin gear juicer. On the other hand, if you plan to make juice infrequently, don't have much time to spend on prep and clean up, then you might opt for a centrifugal model. Will there be some compromise in nutritional value if you go the easier way? Sure. But it all comes down to whether or not you’ll actually commit to juicing. </p>
 
@@ -220,7 +220,7 @@ Popular choices for twin gear juicers: Samson Green Power, Green Star Elite Ju
 <p class="card-text">Last but not least: the slowest, most effective badass on the scene. If you’ve won the lottery, robbed a bank or inherited the family jewels from your Aunt Trudy, check out the Norwalk juicer—which costs around $2500. This machine literally presses (as in uses a hydraulic press) the juice out of fruits and veggies, including tough-to-juice grasses like wheatgrass. This powerful juicer provides 50 to 100 percent more juice than other machines, and the juice itself will stay very fresh for up to three days.</p>
 
 <h4>Citrus Juicers</h4>
-<p class="card-text">citrus juicer with are extremely inexpensive but very useful.</p>
+<p class="card-text">Citrus juicers with are extremely inexpensive but very useful.  They are small, quick tools used to juice Lemons, Limes, and Oranges and Grapefruit. </p>
 </div>
 </div>
 
