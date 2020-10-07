@@ -83,12 +83,12 @@ h5 {
 
 
 .carousel {
-    padding-left: .5em;
+    padding: 2em;
 }
 
 .default {
     list-style-type: disc !important;
-    padding-left: .5em;
+    padding-left: 2em;
 }
 
 
