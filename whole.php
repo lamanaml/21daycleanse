@@ -51,7 +51,7 @@
          <p class="card-text"> Our bodies are designed to process food from it's whole natural state.  We can extract the nutrients, and dispose of it very efficiently.  
             Since processed foods have already been "processed", meaning that much of the fiber and nutrition has been removed, our bodies are able not to extract much, and without the fiber, is not able to dispose of it as efficiently.  Our bodies are more likely to store processed foods as toxins.  These toxins will be covered with a layer of a mucus for protection until it can figure out how to get rid of it.</p>
         <p class="card-text">During the whole food phase (days 1, 2, 20 and 21), we will enjoy cooked and raw whole foods! Because these foods are unprocessed, our digestive systems will be able to process them more efficiently, and extract the nutrients that we need. </p>
-        <p class="card-text">Need a little inspiration?  Check out some images of Whole Food meals!</p>
+        <p class="card-text">Need a little inspiration?  Check out some images of Whole Food meals from folks over the years!</p>
 
         <!-- Carousel -->
         <div class="container">

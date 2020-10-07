@@ -63,7 +63,7 @@
     </p>
     <p class="card-text">So, during this phase (days 3-7 and days 15-19), we will turn off the stoves and flood ourselves with nutrients and life giving enzymes!</p>
   </div>
-
+        <p class="card-text">Need a little inspiration?  Check out some images of Live/Faw Food meals from folks over the years!</p>
           
         <!-- Carousel -->
         <div class="container">

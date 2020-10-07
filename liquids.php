@@ -53,10 +53,14 @@
         <p class="card-text">The key to the liquids phase is to avoid all fiber.  If we keep to strictly juice with no cheating, within 3 days our hunger should subside along with the detox symptoms.  </p>
         <p class="card-text"> 
           That said, for this phase, you will need a juicer.  To get the juice from fruits and veggies, we must use a JUICER, not a BLENDER.  A blender will mix the liquid with the fiber, while a juicer will extract the liquid, separating it from the fiber.  </p>
+
+                                <p class="card-text">Need a little inspiration?  Check out some images of Liquid meals from folks over the years!</p>
                </div>
+
+ 
                
         <!-- Carousel -->
-        <div class="container">
+        <div class="container carousel">
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
 <div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
   data-link="https://goo.gl/photos/Y2k7BUHbd9SfpHnp6"
@@ -135,8 +139,8 @@
                
 
      <!-- <h3> Veggies that are high in protein</h3>
-<ul class="default">
-  <li>Asparagus</li>   
+<ul >
+  <!-- <li>Asparagus</li>   
   <li> Beet Greens</li>
     <li>Broccoli </li>
     <li>Cabbage</li>
@@ -149,7 +153,7 @@
     <li>Sprouts </li>
     <li>Tomatoes</li>
     <li>Turnip Greens </li>
-</ul> -->
+</ul> --> -->
 
    
      <div>

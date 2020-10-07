@@ -48,6 +48,10 @@ h1 {
 
 }
 
+.carousel {
+    padding-left: .5em;
+}
+
 .default {
     list-style-type: disc !important;
     padding-left: .5em;
