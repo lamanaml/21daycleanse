@@ -9,6 +9,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>21-Day Cleanse - Liquids - Culinary Healing</title>
    <meta name="robots" content="noimageindex, noindex, nofollow, nosnippet">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-26808506-2"></script>
