@@ -226,10 +226,11 @@ Popular choices for twin gear juicers: Samson Green Power, Green Star Elite Ju
         <li >Fill the juice all the way to the top to help reduce the amount of air that gets in.
         </li>
       </ul>
+       <h3>Activities</h3>
 </div>
 
    <div class="card-group">
-     <h3>Activities</h3>
+    
     <!-- card 1 -->
       <div class="card">
         <!-- <img class="card-img-top" src="http://www.culinaryhealing.com/assets/images/foodexamples/breakfast.png" alt="Card image cap"> -->
