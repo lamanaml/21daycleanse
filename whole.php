@@ -226,6 +226,8 @@
           <li>When fruits and veggies get close to the point where they may start going bad, freeze them. (peel and slice bananas first)</li>
         </ul>
         <p class="card-text">Having the produce in an easy-to-use state will make our refrigerators more approachable, and reduce meal prep times! </p>
+
+        
 </div>
 
   <div class="row">
@@ -237,7 +239,7 @@
         <div class="card-body">
           <h5 class="card-title">Recipe Scavenger Hunt</h5>
           <p class="card-text">
-            OK, that is the first phase in a nutshell.  We should have a good understanding of what we can and cannot eat.  Now, let's take to the internet (or cookbooks) and find our own breakfast and lunch/dinner recipes! Try to find at least 2 good recipes!  Remember, the recipe is only a guide, not the law.  We can swap out ingredients, omit or add items to suit our needs.  This exercise will help inspire our own creativity.</p> 
+            OK, that is the first phase in a nutshell.  We should have a good understanding of what we can and cannot eat.  Now, let's take to the internet (or <a href="https://www.amazon.com/s?k=vegan+cookbooks&rh=n%3A283155%2Cn%3A4336&dc&qid=1602046827&rnid=2941120011&ref=sr_nr_n_3">cookbooks</a>) and find our own breakfast and lunch/dinner recipes! Try to find at least 2 good recipes!  Remember, the recipe is only a guide, not the law.  We can swap out ingredients, omit or add items to suit our needs.  This exercise will help inspire our own creativity.</p> 
          <p class="card-text">Once we find them,  <a href="http://culinaryhealing21days.com/notes/"> let's share them in the daily discussion! </a> </p>
         
         </div>
