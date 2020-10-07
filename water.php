@@ -45,13 +45,15 @@
   <!-- content Body -->
         <div class="container intro">  
           <h3 >The Water Phase</h3>
+           <p class="card-text">All throughout the cleanse, we will need to incorporate water to help flush toxins out of our system.  
           <p class="card-text">During Water Day, we only drink distilled water.  No tea, no juice, no lemon in the water, no supplements.  Just distilled water at room temperature.  
           </p> 
           <p class="card-text">Drink at least 8 cups of water throughout the day to stay hydrated. Distilled water is best for the water day because it actually goes in and pulls out toxins from the organs. It literally pulls out the mire that gets caught in the follicles of the colon that breeds disease.</p> 
           <p class="card-text">The most important thing for this day is to rest.  Go out to a park and just relax, stay in bed all day, meditate, pray, relax on the beach, do some yoga. I forbid you to do anything strenuous this day...I mean it! </p> 
        
-          <h3>Activities</h3>
-          <ul>
+          <h5>What can we do?</h5>
+          We can get through the day the best way that we can.  Here are a few recommended activities. 
+          <ul class="default">
             <li>Rest</li>
             <li>Sleep</li>
             <li>Write in your journal</li>
