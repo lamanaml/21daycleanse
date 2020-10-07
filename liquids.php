@@ -187,7 +187,7 @@
 
    <div class="container">
 <div class="table-users">
-   <div class="header">Choosing a Juicer</div>
+   <h3>Choosing a Juicer</h3>
 
    <p class="card-text">  During the liquid phase, we will need a juicer. Make sure to purchase a juicer not a blender.</p>
 
@@ -198,19 +198,19 @@
 <p class="card-text">If you plan to juice often, even beyond the cleanse, or have health issues where a high quality juice is needed, you may want to invest in the masticating or twin gear juicer. On the other hand, if you plan to make juice infrequently, don't have much time to spend on prep and clean up, then you might opt for a centrifugal model. Will there be some compromise in nutritional value if you go the easier way? Sure. But it all comes down to whether or not you’ll actually commit to juicing. </p>
 
 
-<h3>Centrifugal Juicers</h3>
+<h4>Centrifugal Juicers</h4>
 <p class="card-text">Centrifugal juicers have a wide mouth to feed your fruits and veggies into, which means you can cut into larger slices, saving money.  With this machine, your veggies and fruits are pushed through a chute into a fast-spinning mesh basket with a grated bottom. The produce is shredded and spun, sending the juice through the mesh and into a pitcher while the pulp goes into a separate basket. </p>
 
 <p class="card-text">With these, the high-speed spinning causes the juice to oxidize faster than it would with slower speed juicers. For this reason, it’s best to drink juices from a centrifugal juicer right away to ensure the most nutrients and best flavor and color. However, if saving some juice for later means that you drink more juice, then by all means store your juice in an airtight mason jar and keep it in the fridge till you’re ready to enjoy it.  They also aren’t very good with certain leafy greens, sprouts or herbs. </p>
 
 <p class="card-text">Popular choices for centrifugal juicers: Breville Juice Fountain, the Omega, Cuisinart Juice Extractor, the Hamilton Beach Big Mouth Pro and the popular and affordable Jack LaLanne machines. </p>
 
-<h3>Masticating Juicers (AKA Slow Juicers)</h3>
+<h4>Masticating Juicers (AKA Slow Juicers)</h4>
 <p class="card-text">These use a single gear (or auger) that chews up your produce in order to break down the fibrous cell walls and extract the juice, which is gently squeezed through a stainless steel screen. Masticating juicers tend to have a higher yield than centrifugal juicers, and therefore dryer pulp. Because they run at slower speeds, you’ll get less oxidation and more nutrients. Plus the juice lasts longer. Store it in a tightly sealed mason jar and refrigerate, and it should keep for up to 48 hours. </p>
 
 <p class="card-text">Popular choices for masticating juicers: Hurom Slow Juicer (my personal favorite, which includes a 10-year warranty), Omega 8006 Nutrition System Juicer, Omega VRT350, Breville Fountain Crush Slow Juicer, Champion Household Juicer.</p>
 
-<h3>Twin Gear Juicers (AKA Triturating juicers)</h3>
+<h4>Twin Gear Juicers (AKA Triturating juicers)</h4>
 <p class="card-text">Twin gear juicers operate at even slower speeds than masticating juicers, which means they extract the highest yield and retain the most nutrients in your juice. They grind and press the produce between two interlocking roller gears and slowly squeeze out the goodness. Because there’s less oxidation, you’ll get up to 72 hours of nutrient-rich juice—provided you store your juice in an airtight container and keep it in the fridge. The other advantage of twin gear juicers (and masticating juicers) is that they make the most of leafy greens and even wheatgrass.  Added bonus is that you can make nut butters.</p>
 
 <p class="card-text">Both masticating and twin gear juicers are powerful, health-producing machines but they have a few downsides: the whole process of making a juice tends to take a bit longer than centrifugal. The prep involves cutting the produce into smaller sizes because their mouths are typically narrow. Feeding the juicer takes time because the gears turn slowly. And finally, the cleanup can include a few extra steps because there are often more parts to rinse and scrub. In addition, sometimes pulp can slip through. No biggie. You can either strain it or just enjoy the extra fiber.</p>
@@ -218,10 +218,10 @@
 <p class="card-text">These juicers are also more expensive. All that said, they’re still the go-to choice for health gurus and advocates.
 Popular choices for twin gear juicers: Samson Green Power, Green Star Elite Juice Extractor.</p>
 
-<h3>Norwalk Hydraulic Press</h3>
+<h4>Norwalk Hydraulic Press</h4>
 <p class="card-text">Last but not least: the slowest, most effective badass on the scene. If you’ve won the lottery, robbed a bank or inherited the family jewels from your Aunt Trudy, check out the Norwalk juicer—which costs around $2500. This machine literally presses (as in uses a hydraulic press) the juice out of fruits and veggies, including tough-to-juice grasses like wheatgrass. This powerful juicer provides 50 to 100 percent more juice than other machines, and the juice itself will stay very fresh for up to three days.</p>
 
-<h3>Citrus Juicers</h3>
+<h4>Citrus Juicers</h4>
 <p class="card-text">citrus juicer with are extremely inexpensive but very useful.</p>
 </div>
 </div>
