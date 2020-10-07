@@ -156,26 +156,7 @@
 </ul> --> 
 
    
-     <div>
-      <h3 class="card-title">Tips</h3>
-            <h5 class="card-title">Cleaning  fruits and veggies</h5>
-            <p class="card-text"> Fill your sink with cold water, add 4 tablespoons of salt and the juice of a lemon. Soak the fruits and veggies for 10 minutes then rinse under cold water. 1/4 cup of vinegar can be substituted for lemon.</p>
-
-      <h5 class="card-title">Storing your Juice</h5>
-      <p class="card-text">We drink fresh fruit and veggie juice because it still has all its nutrients and enzymes. This means that the juice still has it's "life force". This life force is what will give you energy throughout the cleanse. Fresh juice begins to lose its nutrients immediately, therefore it's best to drink fresh juice right away. </p>
-    
-      <p class="card-text">
-      The tips that follow will save you time in the kitchen by showing you how to store juices and keep as much of the life force intact as possible.
-      </p>
-      <ul class="list-group list-group-flush">
-        <li class="list-group-item">Try to avoid contact with light, heat, and air as they will cause juice to oxidize (losing its life force)
-        </li>
-        <li class="list-group-item">Keep the juice as cold as possible. If you have to store the juice for a while, make sure that the container is airtight and refrigerated.
-        </li>
-        <li class="list-group-item">Fill the juice all the way to the top to help reduce the amount of air that gets in.
-        </li>
-      </ul>
-</div>
+   
 
  <!-- Ingredients -->
    <div >
@@ -224,6 +205,28 @@ Popular choices for twin gear juicers: Samson Green Power, Green Star Elite Ju
 </div>
 </div>
 
+  <div>
+      <h3 class="card-title">Tips</h3>
+            <h5 class="card-title">Cleaning  fruits and veggies</h5>
+            <p class="card-text"> Fill your sink with cold water, add 4 tablespoons of salt and the juice of a lemon. Soak the fruits and veggies for 10 minutes then rinse under cold water. 1/4 cup of vinegar can be substituted for lemon.</p>
+
+      <h5 class="card-title">Storing Juice</h5>
+      <p class="card-text">We drink fresh fruit and veggie juice because it still has all its nutrients and enzymes. This means that the juice still has it's "life force". This life force is what will give you energy throughout the cleanse. Fresh juice begins to lose its nutrients immediately, therefore it's best to drink fresh juice right away. </p>
+    
+      <p class="card-text">
+      The tips that follow will save you time in the kitchen by showing you how to store juices and keep as much of the life force intact as possible.
+      </p>
+      <ul class="default">
+        <li >Try to avoid contact with light, heat, and air as they will cause juice to oxidize (losing its life force)
+        </li>
+        <li >Keep the juice as cold as possible. If you have to store the juice for a while, make sure that the container is airtight and refrigerated.
+        </li>
+        <li >If longer term storage is needed, the juice can be frozen
+        </li>
+        <li >Fill the juice all the way to the top to help reduce the amount of air that gets in.
+        </li>
+      </ul>
+</div>
 
    <div class="card-group">
     <!-- card 1 -->
