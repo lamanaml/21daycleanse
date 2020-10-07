@@ -65,7 +65,7 @@
             <li>Pray/meditate</li>
           </ul>
         </div>
-
+  <h5>Extra Credit</h5>
         <p class="card-text">
         Check out this research on the effects of words, thoughts and sound on water.
         </p>
