@@ -46,6 +46,9 @@
 
   <!-- content Body -->
   <div class="container intro">  
+      <div style="float:right; width:20%">
+        <?php include_once("includes/roadmapmini.html"); ?>
+      </div>
     <h3 >What are Live (also know as Raw) foods?</h3>
     <p class="card-text">Live / raw foods are whole foods that have not been heated over a certain temperature, so they still have the vitamins, minerals, phytochemicals, and specifically the enzymes intact. 
     </p>
