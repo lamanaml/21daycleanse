@@ -185,10 +185,7 @@
       </div>
   
 
-       <!-- <div>
-        <?php include_once("includes/juicers.html"); ?>
-      </div>   -->
-     
+   <div class="container">
 <div class="table-users">
    <div class="header">Choosing a Juicer</div>
 
@@ -228,7 +225,7 @@ Popular choices for twin gear juicers: Samson Green Power, Green Star Elite Ju
 <p class="card-text">citrus juicer with are extremely inexpensive but very useful.</p>
 </div>
 </div>
-
+</div>
 
    <div class="card-group">
     <!-- card 1 -->
