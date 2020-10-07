@@ -43,24 +43,24 @@ h1 {
   font-weight: bold; 
   letter-spacing: -1px; 
   line-height: 1; 
-
-  padding:20px
+  padding:20px;
 }
 
 h3 { 
   color: #111; 
   font-family: 'Montserrat', sans-serif;
-  font-size: 60px; 
+  font-size: 40px; 
   font-weight: bold; 
   letter-spacing: -1px; 
   line-height: 1; 
-  padding:20px
+  padding:20px;
+  text-transform: uppercase;
 }
 
 h4 { 
   color: #111; 
   font-family: 'Montserrat', sans-serif;
-  font-size: 40px; 
+  font-size: 20px; 
   font-weight: bold; 
   letter-spacing: -1px; 
   line-height: 1; 
