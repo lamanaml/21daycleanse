@@ -150,6 +150,33 @@ border:0px;
   padding: 1.25rem;
   min-width: 12.5rem;
 }
+h1 { 
+  font-size: 24px; 
+  letter-spacing: -1px; 
+  line-height: 1; 
+  padding-top:10px;
+  padding-bottom:10px;
+}
+
+h3 { 
+
+  font-size: 20px; 
+  letter-spacing: -1px; 
+  line-height: 1; 
+  padding-top:10px;
+  padding-bottom:10px;
+
+
+h4 { 
+  font-size: 18px; 
+  letter-spacing: -1px; 
+  line-height: 1; 
+  padding-top:10px;
+  padding-bottom:10px;
+}
+
+
+
 
 /* Footer main | Newsletter form */
 form {
