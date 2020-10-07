@@ -206,7 +206,7 @@
 
         <h4>Storing Fruits and Veggies</h4>
         <p class="card-text">Fruits and veggies are perishable, and there is a lot of variation in the different types of fruits and veggies. Here are my tips:</p>
-        <ul>
+        <ul class="default">
           <li>purchase only enough fruits and veggies to last for 2-3 days.</li>
           <li>buy a combination of ripe and unripe items (bananas and avocados). eat the ripe ones now, and the unripe ones will last for a few extra days</li>
           <li>keep most fruits and veggies in the refrigerator</li>
