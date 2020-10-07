@@ -140,7 +140,17 @@ border:0px;
   .ft-main {
     justify-content: space-evenly;
   }
-  h1 { 
+}
+@media only screen and (min-width: 77.5rem /* 1240px */) {
+  .ft-main {
+    justify-content: space-evenly;
+  }
+
+.ft-main-item {
+  padding: 1.25rem;
+  min-width: 12.5rem;
+}
+h1 { 
   font-size: 24px; 
   letter-spacing: -1px; 
   line-height: 1; 
@@ -164,17 +174,6 @@ h4 {
   padding-top:10px;
   padding-bottom:10px;
 }
-}
-@media only screen and (min-width: 77.5rem /* 1240px */) {
-  .ft-main {
-    justify-content: space-evenly;
-  }
-
-.ft-main-item {
-  padding: 1.25rem;
-  min-width: 12.5rem;
-}
-
 
 }
 
