@@ -53,12 +53,7 @@
           <p class="card-text">Drink at least 8 cups of water throughout the day to stay hydrated. Distilled water is best for the water day because it actually goes in and pulls out toxins from the organs. It literally pulls out the trash that gets caught in the follicles of the colon that breeds disease.</p> 
           <p class="card-text">The most important thing for this day is to stay at peace.  Go out to a park and just relax, stay in bed all day, meditate, pray, relax on the beach, do some yoga. I forbid you to do anything strenuous this day...I mean it! </p> 
 
-<p class="card-text">
-        Check out this research on the effects of words on water
-        </p>
-          
-          <iframe width="560" height="315" src="https://youtu.be/1qQUFvufXp4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-    
+
 
           <h5>What can we do?</h5>
           We can get through the day the best way that we can.  Here are a few recommended activities. 
@@ -70,6 +65,13 @@
             <li>Pray/meditate</li>
           </ul>
         </div>
+
+        <p class="card-text">
+        Check out this research on the effects of words, thoughts and sound on water.
+        </p>
+          
+          <iframe width="560" height="315" src="https://youtu.be/1qQUFvufXp4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    
       </div>
 
   
