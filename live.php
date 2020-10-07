@@ -209,7 +209,7 @@
       <div class="card">
         <!-- <img class="card-img-top" src="http://www.culinaryhealing.com/assets/images/foodexamples/breakfast.png" alt="Card image cap"> -->
         <div class="card-body">
-          <h3 class="card-title">Recipe Scavenger Hunt</h3>
+          <h5 class="card-title">Recipe Scavenger Hunt</h5>
           <p class="card-text">
         Now, let's take to the internet (or <a href="https://www.amazon.com/s?k=raw+cookbooks&ref=nb_sb_noss_1">cookbooks</a>) and find our own breakfast and lunch/dinner recipes! Try to find at least 2 good recipes!  Remember, the recipe is only a guide, not the law.  We can swap out ingredients, omit or add items to suit our needs.  This exercise will help inspire our own creativity.</p> 
         <p class="card-text">Once we find them,  <a href="http://culinaryhealing21days.com/notes/"> let's share them in the daily discussion!  </a>  </p>
@@ -220,7 +220,7 @@
       <div class="card">
         <!-- <img class="card-img-top" src="http://www.culinaryhealing.com/assets/images/foodexamples/lunch.png" alt="Card image cap"> -->
         <div class="card-body">
-          <h3 class="card-title">Building a Menu</h3>
+          <h5 class="card-title">Building a Menu</h5>
           <p class="card-text">
           Now that we have some recipes under our belt, let's build a menu.  We can get as simple or as fancy as we like, but Let's keep this part manageable.  Think realistically about what you can/will make for each meal.   Try to find meals with repeating ingredients, this will help reduce grocery cost and waste.  Also, don't be afraid to substitute ingredients!</p>
           <p class="card-text">
@@ -232,7 +232,7 @@
       <div class="card">
         <!-- <img class="card-img-top" src="http://www.culinaryhealing.com/assets/images/foodexamples/dinner.png" alt="Card image cap"> -->
         <div class="card-body">
-          <h3 class="card-title">Grocery Shopping</h3>
+          <h5 class="card-title">Grocery Shopping</h5>
           <p class="card-text">
           Let's put our knowledge into action.  Next, we will build a grocery list then go shopping!.  
           At the store, shop mostly the outside perimeter of the grocery store (where the produce is - avoiding the processed food. ) and read labels, and have fun! </p>
