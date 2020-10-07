@@ -227,7 +227,7 @@
         </ul>
         <p class="card-text">Having the produce in an easy-to-use state will make our refrigerators more approachable, and reduce meal prep times! </p>
 
-        
+      <h3>Activities</h3>   
 </div>
 
   <div class="row">

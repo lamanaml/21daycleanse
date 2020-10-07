@@ -201,8 +201,10 @@
       </div>
 
 
-
-
+<div class="container">
+  <h3>Activities</h3>
+  </div>
+     
 
     <div class="card-group">
     <!-- card 1 -->
