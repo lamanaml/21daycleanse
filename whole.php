@@ -45,7 +45,7 @@
          
 <!-- content Body -->
    <div class="container intro">  
-      <div style="float:right">
+      <div style="float:right; width:20%">
         <?php include_once("includes/roadmapmini.html"); ?>
       </div>
 
