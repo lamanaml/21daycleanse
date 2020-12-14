@@ -14,7 +14,7 @@
       </head>  
       <body>  
         <?php  
-      <!-- Allow from any origin -->
+    
 if (isset($_SERVER['HTTP_ORIGIN'])) {
     // should do a check here to match $_SERVER['HTTP_ORIGIN'] to a
     // whitelist of safe domains -->
