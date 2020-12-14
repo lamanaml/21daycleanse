@@ -1,3 +1,4 @@
+    <?php header('Access-Control-Allow-Origin: *'); ?>
 <?php   
  session_start();  
  ?>  
@@ -12,7 +13,7 @@
 
       </head>  
       <body>  
-      <?php header('Access-Control-Allow-Origin: *'); ?>
+  
            <br />  
            <div class="container" style="width:700px;">  
                 <h3 style="align:center">Culinary Healing Sign-in</h3><br />  
