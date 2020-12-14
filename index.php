@@ -31,7 +31,7 @@
         'result' => 'OK',
     ];
     print json_encode($ret);
-    
+    ?>
 
            </div>  
            <br />  
