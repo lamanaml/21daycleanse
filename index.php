@@ -20,6 +20,7 @@
         'result' => 'OK',
     ];
     print json_encode($ret);
+    ?>
  <!DOCTYPE html>  
  <html>  
       <head>  
