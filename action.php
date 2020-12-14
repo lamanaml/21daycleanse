@@ -1,6 +1,11 @@
 <?php  
  session_start();  
- $connect = mysqli_connect("localhost", "root", "T@b00@r!", "testing");  
+//  $connect = mysqli_connect("jlodywmy_21day", "root", "T@b00@r!", "testing");  
+
+ $connect = mysql_connect ("localhost", "jlodywmy_21day", "password")
+or die ('I cannot connect to the database.');
+mysql_select_db ("jlodywmy_21day");
+
  if(isset($_POST["username"]))  
  {  
       $query = "  
