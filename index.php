@@ -1,4 +1,31 @@
-    <?php header('Access-Control-Allow-Origin: *'); ?>
+    <?php // Allow from any origin
+if(isset($_SERVER["HTTP_ORIGIN"]))
+{
+    // You can decide if the origin in $_SERVER['HTTP_ORIGIN'] is something you want to allow, or as we do here, just allow all
+    header("Access-Control-Allow-Origin: {$_SERVER['HTTP_ORIGIN']}");
+}
+else
+{
+    //No HTTP_ORIGIN set, so we allow any. You can disallow if needed here
+    header("Access-Control-Allow-Origin: *");
+}
+
+header("Access-Control-Allow-Credentials: true");
+header("Access-Control-Max-Age: 600");    // cache for 10 minutes
+
+if($_SERVER["REQUEST_METHOD"] == "OPTIONS")
+{
+    if (isset($_SERVER["HTTP_ACCESS_CONTROL_REQUEST_METHOD"]))
+        header("Access-Control-Allow-Methods: POST, GET, OPTIONS, DELETE, PUT"); //Make sure you remove those you do not want to support
+
+    if (isset($_SERVER["HTTP_ACCESS_CONTROL_REQUEST_HEADERS"]))
+        header("Access-Control-Allow-Headers: {$_SERVER['HTTP_ACCESS_CONTROL_REQUEST_HEADERS']}");
+
+    //Just exit with 200 OK with the above headers for OPTIONS method
+    exit(0);
+}
+//From here, handle the request as it is ok
+share  improve this answer  follow ?>
 <?php   
  session_start();  
  ?>  
@@ -13,26 +40,34 @@
 
       </head>  
       <body>  
-       <?php
-    if ($_SERVER['REQUEST_METHOD'] === 'OPTIONS') {
-        header('Access-Control-Allow-Origin: *');
-        header('Access-Control-Allow-Methods: POST, GET, DELETE, PUT, PATCH, OPTIONS');
-        header('Access-Control-Allow-Headers: token, Content-Type');
-        header('Access-Control-Max-Age: 1728000');
-        header('Content-Length: 0');
-        header('Content-Type: text/plain');
-        die();
-    }
-
-    header('Access-Control-Allow-Origin: *');
-    header('Content-Type: application/json');
-
-    $ret = [
-        'result' => 'OK',
-    ];
-    print json_encode($ret);
-    ?>
-
+  
+           <br />  
+           <div class="container" style="width:700px;">  
+                <h3 style="align:center">Culinary Healing Sign-in</h3><br />  
+                <br />  
+                <br />  
+                <br />  
+                <br />  
+                <br />  
+                <?php  
+                if(isset($_SESSION['username']))  
+                {  
+                ?>  
+                <div style="align:center">  
+                     <h1>Welcome - <?php echo $_SESSION['username']; ?></h1><br />  
+                     <a href="#" id="logout">Logout</a>  
+                </div>  
+                <?php  
+                }  
+                else  
+                {  
+                ?>  
+                <div style="align:center">  
+                     <button type="button" name="login" id="login" class="btn btn-success" data-toggle="modal" data-target="#loginModal">Login</button>  
+                </div>  
+                <?php  
+                }  
+                ?>  
            </div>  
            <br />  
       </body>  
