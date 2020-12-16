@@ -1,7 +1,7 @@
 <?php
 /* Database credentials. Assuming you are running MySQL
 server with default setting (user 'root' with no password) */
-  define('DB_SERVER', 'localhost');
+  define('DB_SERVER', 'localhost:3306');
    define('DB_USERNAME', 'jlodywmy_lamanaml');
    define('DB_PASSWORD', 'T@b00@r!');
    define('DB_NAME', 'jlodywmy_21day_signin');
