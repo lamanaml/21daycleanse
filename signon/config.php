@@ -1,5 +1,5 @@
 <?php
-   define('DB_SERVER', 'localhost:3036');
+   define('DB_SERVER', 'jlodywmy_21day');
    define('DB_USERNAME', 'root');
    define('DB_PASSWORD', '1234');
    define('DB_DATABASE', '21day');
