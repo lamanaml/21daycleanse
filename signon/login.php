@@ -49,7 +49,7 @@
       
    </head>
    
-   <body bgcolor = "#FFFFFF">
+   <body bgcolor = "#55FFFF">
 	
       <div align = "center">
          <div style = "width:300px; border: solid 1px #333333; " align = "left">
