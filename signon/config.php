@@ -4,7 +4,7 @@ server with default setting (user 'root' with no password) */
  define('DB_SERVER', 'localhost');
    define('DB_USERNAME', 'root');
    define('DB_PASSWORD', 'T@b00@rI');
-   define('DB_NAME', 'ljlodywmy_21day');
+   define('DB_NAME', 'jlodywmy_21day');
  
 /* Attempt to connect to MySQL database */
 $link = mysqli_connect(DB_SERVER, DB_USERNAME, DB_PASSWORD, DB_NAME);
