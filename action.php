@@ -1,10 +1,25 @@
 <?php  
  session_start();  
+ if (isset($_SERVER['HTTP_ORIGIN'])) {
+header("Access-Control-Allow-Origin: {$_SERVER['HTTP_ORIGIN']}");
+header('Access-Control-Allow-Credentials: true');
+header('Access-Control-Max-Age: 86400');
+}
+
+if ($_SERVER['REQUEST_METHOD'] == 'OPTIONS') {
+
+if (isset($_SERVER['HTTP_ACCESS_CONTROL_REQUEST_METHOD']))
+header("Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS");
+
+if (isset($_SERVER['HTTP_ACCESS_CONTROL_REQUEST_HEADERS']))
+header("Access-Control-Allow-Headers: {$_SERVER['HTTP_ACCESS_CONTROL_REQUEST_HEADERS']}");
+}
 //  $connect = mysqli_connect("jlodywmy_21day", "root", "T@b00@r!", "testing");  
 
  $connect = mysql_connect ("localhost", "jlodywmy_21day", "password")
 or die ('I cannot connect to the database.');
 mysql_select_db ("jlodywmy_21day");
+
 
  if(isset($_POST["username"]))  
  {  
@@ -13,8 +28,8 @@ mysql_select_db ("jlodywmy_21day");
       WHERE admin_name = '".$_POST["username"]."'  
       AND admin_password = '".$_POST["password"]."'  
       ";  
-      $result = mysqli_query($connect, $query);  
-      if(mysqli_num_rows($result) > 0)  
+      $result = mysql_query($connect, $query);  
+      if(mysql_num_rows($result) > 0)  
       {  
            $_SESSION['username'] = $_POST['username'];  
            echo 'Yes';  
