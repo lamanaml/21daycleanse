@@ -105,7 +105,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
             <div class="hero-inner"> 
                 <img src="_authenticated/assets/images/chlogo-tran.png" width="300px">
                   <br>
-                    <h2>Culinary Healing 21-Day Cleanse</h2>
+                    <h2>21-Day Cleanse</h2>
                 
                
 
