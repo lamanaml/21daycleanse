@@ -104,25 +104,27 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
         <section class="hero">
             <div class="hero-inner">
                  <div class="wrapper">
-        <h2>Login</h2>
-        <p>Please add your username and password to access the 21-Day Cleanse</p>
-        <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="post">
-            <div class="form-group <?php echo (!empty($username_err)) ? 'has-error' : ''; ?>">
-                <label>Username</label>
-                <input type="text" name="username" class="form-control" value="<?php echo $username; ?>">
-                <span class="help-block"><?php echo $username_err; ?></span>
-            </div>    
-            <div class="form-group <?php echo (!empty($password_err)) ? 'has-error' : ''; ?>">
-                <label>Password</label>
-                <input type="password" name="password" class="form-control">
-                <span class="help-block"><?php echo $password_err; ?></span>
-            </div>
-            <div class="form-group">
-                <input type="submit" class="btn btn-primary" value="Login">
-            </div>
-            <p>If you have not created an account <a href="register.php">Sign up now</a>.</p>
-        </form>
-    </div>    
+                    <h2>Login</h2>
+                    <p>Please add your username and password to access the 21-Day Cleanse</p>
+                    <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="post">
+                        <div class="form-group <?php echo (!empty($username_err)) ? 'has-error' : ''; ?>">
+                            <label>Username</label>
+                            <input type="text" name="username" class="form-control" value="<?php echo $username; ?>">
+                            <span class="help-block"><?php echo $username_err; ?></span>
+                        </div>    
+                        <div class="form-group <?php echo (!empty($password_err)) ? 'has-error' : ''; ?>">
+                            <label>Password</label>
+                            <input type="password" name="password" class="form-control">
+                            <span class="help-block"><?php echo $password_err; ?></span>
+                        </div>
+                        <div class="form-group">
+                            <input type="submit" class="btn" value="Login">
+                        </div>
+                        <div>
+                        <p>If you have not created an account <a href="register.php">Sign up now</a>.</p>
+                        </div>
+                    </form>
+                </div>    
             </div>
         </section>
    
