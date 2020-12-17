@@ -111,16 +111,16 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
                             <label>Username</label>
                             <input type="text" name="username" class="form-control" value="<?php echo $username; ?>">
                             <span class="help-block"><?php echo $username_err; ?></span>
-                        </div>    
+                        </div>   <br> 
                         <div class="form-group <?php echo (!empty($password_err)) ? 'has-error' : ''; ?>">
                             <label>Password</label>
                             <input type="password" name="password" class="form-control">
                             <span class="help-block"><?php echo $password_err; ?></span>
-                        </div>
+                        </div><br>
                         <div class="form-group">
                             <input type="submit" class="btn" value="Login">
                         </div>
-                        <div>
+                        <div><br>
                         <p>If you have not created an account <a href="register.php">Sign up now</a>.</p>
                         </div>
                     </form>
