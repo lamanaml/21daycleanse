@@ -95,7 +95,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Login</title>
+    <title>Culinary Healing 21-Day Cleanse</title>
     <link rel="stylesheet" href="_authenticated/assets/css/21day.css">
     
 </head>
@@ -104,7 +104,9 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
         <section class="hero">
             <div class="hero-inner">
                   
-                    <h2>Login</h2>
+                    <h2>Culinary Healing 21-Day Cleanse</h2>
+                
+                <img src="_authenticated/assets/images/21day.png">
                     <p>Please add your username and password to access the 21-Day Cleanse</p>
                     <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="post">
                         <div class="form-group <?php echo (!empty($username_err)) ? 'has-error' : ''; ?>">

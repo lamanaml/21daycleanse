@@ -10,7 +10,7 @@ body {
   flex-direction: column;
 }
 .hero p  {
-font-size: 20px;
+font-size: 24px;
 }
 .border {
   background-color: gray;
@@ -121,7 +121,7 @@ a:hover {
     text-align: center;
     color:white;
     /* Background styles */
-    background-image: url(../images/recipes/spicygreens.jpg);
+    /* background-image: url(../images/recipes/spicygreens.jpg); */
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
