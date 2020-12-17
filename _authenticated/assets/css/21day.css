@@ -117,7 +117,7 @@ a:hover {
     
     /* Text styles */
     text-align: center;
-    
+    color:white;
     /* Background styles */
     background-image: url(../images/recipes/spicygreens.jpg);
     background-size: cover;
