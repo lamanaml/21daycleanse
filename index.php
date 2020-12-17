@@ -1,3 +1,6 @@
+
+
+
 <?php
 // Initialize the session
 session_start();
@@ -93,16 +96,16 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
 <head>
     <meta charset="UTF-8">
     <title>Login</title>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.css">
-    <style type="text/css">
-        body{ font: 14px sans-serif; }
-        .wrapper{ width: 350px; padding: 20px; }
-    </style>
+    <link rel="stylesheet" href="_authenticated/assets/css/21day.css>
+    
 </head>
-<body>
-    <div class="wrapper">
+
+    <body>
+        <section class="hero">
+            <div class="hero-inner">
+                 <div class="wrapper">
         <h2>Login</h2>
-        <p>Please fill in your credentials to login.</p>
+        <p>Please add your username and password to access the 21-Day Cleanse</p>
         <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="post">
             <div class="form-group <?php echo (!empty($username_err)) ? 'has-error' : ''; ?>">
                 <label>Username</label>
@@ -117,8 +120,11 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
             <div class="form-group">
                 <input type="submit" class="btn btn-primary" value="Login">
             </div>
-            <p>Don't have an account? <a href="register.php">Sign up now</a>.</p>
+            <p>If you have not created an account <a href="register.php">Sign up now</a>.</p>
         </form>
     </div>    
+            </div>
+        </section>
+   
 </body>
 </html>
