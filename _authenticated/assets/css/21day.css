@@ -222,7 +222,7 @@ h4 {
 
 
 /* Footer main | Newsletter form */
-/* form {
+form {
   display: flex;
   flex-wrap: wrap;
 }
@@ -231,6 +231,7 @@ input[type="email"] {
   padding: 0.625rem;
   margin-top: 0.3125rem;
 }
+
 input[type="submit"] {
   background-color: #00d188;
   color: #fff;
@@ -238,7 +239,7 @@ input[type="submit"] {
   border: 0;
   padding: 0.625rem 0.9375rem;
   margin-top: 0.3125rem;
-} */
+}
 /* Footer social */
 .ft-social {
   padding: 0 1.875rem 1.25rem;
