@@ -32,20 +32,17 @@
 
 
   <body id="welcome">
-      <div class="page-header">
-        <h1>Hi, <b><?php echo htmlspecialchars($_SESSION["username"]); ?></b>. Welcome to our site.</h1>
-    </div>
-    <p>
-        <a href="../reset-password.php" class="btn btn-warning">Reset Your Password</a>
-        <a href="../logout.php" class="btn btn-danger">Sign Out of Your Account</a>
-    </p>
+   
 
 <!-- navigation -->
     <div class="nav-div">
       <?php include_once("includes/nav.html"); ?>
     </div>
      
-   
+   <!-- navigation -->
+    <div class="nav-div">
+    <?php include_once("includes/authenticate.php"); ?>
+    </div>
 <!-- Header -->
     <img class="headerImg" src="assets/images/pagetitles/welcome.png" width="100%" > 
 
