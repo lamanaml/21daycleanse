@@ -103,7 +103,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
     <body>
         <section class="hero">
             <div class="hero-inner">
-                 <div class="wrapper">
+                  
                     <h2>Login</h2>
                     <p>Please add your username and password to access the 21-Day Cleanse</p>
                     <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="post">
@@ -124,7 +124,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
                         <p>If you have not created an account <a href="register.php">Sign up now</a>.</p>
                         </div>
                     </form>
-                </div>    
+               
             </div>
         </section>
    

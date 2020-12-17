@@ -107,8 +107,8 @@ a:hover {
 
 .hero {
     /* Sizing */
-    width: 50vw;
-    height: 50vh;
+    width: 100vw;
+    height: 100vh;
     
     /* Flexbox stuff */
     display: flex;
