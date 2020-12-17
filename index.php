@@ -106,8 +106,8 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
                   
                     <h2>Culinary Healing 21-Day Cleanse</h2>
                 
-                <img src="_authenticated/assets/images/chlogo-tran.png">
-                    
+                <img src="_authenticated/assets/images/chlogo-tran.png" width="300px">
+
                     <p>Please add your username and password to access the 21-Day Cleanse</p>
                     <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="post">
                         <div class="form-group <?php echo (!empty($username_err)) ? 'has-error' : ''; ?>">
