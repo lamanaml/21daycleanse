@@ -1,3 +1,4 @@
+    <?php include_once("includes/authenticate.php"); ?>
 <!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
@@ -38,11 +39,9 @@
     <div class="nav-div">
       <?php include_once("includes/nav.html"); ?>
     </div>
-     
-   <!-- navigation -->
-    <div class="nav-div">
-    <?php include_once("includes/authenticate.php"); ?>
-    </div>
+
+
+
 <!-- Header -->
     <img class="headerImg" src="assets/images/pagetitles/welcome.png" width="100%" > 
 

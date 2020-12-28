@@ -1,6 +1,4 @@
 
-
-
 <?php
 // Initialize the session
 session_start();
@@ -130,7 +128,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
             <div class="hero-inner"> 
                 <img src="_authenticated/assets/images/chlogo-tran.png" width="300px">
                   <br>
-                    <h2>21-Day Cleanse</h2>
+                    <h1>21-Day Cleanse</h1>
                 
                
 
