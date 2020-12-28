@@ -150,7 +150,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
                             <input type="submit" class="btn" value="Sign in">
                         </div>
         
-                        <p>If you have not created an account <a href="register.php">Sign up now</a>.</p>
+                        <p>If you would like to sign up for the cleanse <a href="https://culinaryhealing.com/21day.php">register here</a>.</p>
            
                     </form>
                
