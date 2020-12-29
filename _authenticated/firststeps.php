@@ -47,7 +47,6 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
     <div class="nav-div">
       <?php include_once("includes/authenticate.php"); ?>
     </div>
-<!-- navigation -->
     <div class="nav-div">
       <?php include_once("includes/nav.html"); ?>
     </div>
