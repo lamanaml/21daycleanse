@@ -44,16 +44,16 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 
 
 
-
+<!-- login -->
+    <div class="nav-div">
+      <?php include_once("includes/authenticate.php"); ?>
+    </div>
 <!-- navigation -->
     <div class="nav-div">
       <?php include_once("includes/nav.html"); ?>
     </div>
 
-<!-- login -->
-    <div class="nav-div">
-      <?php include_once("includes/authenticate.php"); ?>
-    </div>
+
 
 <!-- Header -->
     <img class="headerImg" src="assets/images/pagetitles/welcome.png" width="100%" > 
