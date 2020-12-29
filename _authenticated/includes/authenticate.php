@@ -1,4 +1,4 @@
 
 
-       Hi, <?php echo htmlspecialchars($_SESSION["username"]); ?> | <a href="../logout.php" >Sign Out </a>
+       Hi, <?php echo htmlspecialchars($_SESSION["username"]); ?> | <a class="btn" href="../logout.php" >Sign Out </a>
     </p>
