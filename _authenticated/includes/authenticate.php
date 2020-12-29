@@ -1,6 +1,6 @@
-  <body id="welcome">
-  <div class="page-header">
-        <h1>Hi, <b><?php echo htmlspecialchars($_SESSION["username"]); ?></b>. Welcome to our site.</h1>
+
+  <div >
+        <h3>Hi, <b><?php echo htmlspecialchars($_SESSION["username"]); ?></b>. Welcome to our site.</h3>
     </div>
     <p>
         <a href="../reset-password.php" class="btn btn-warning">Reset Your Password</a>
