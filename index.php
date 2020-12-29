@@ -120,7 +120,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
 <body>
     <div class="wrapper">
         <img src="_authenticated/assets/images/chlogo-tran.png"  width="300px">
-        <p>Please fill in your credentials to login.</p>
+        <p>Enter your username and password to access the 21-Day Cleanse</p>
         <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="post">
             <div class="form-group <?php echo (!empty($username_err)) ? 'has-error' : ''; ?>">
                 <label>Username</label>
@@ -135,7 +135,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
             <div class="form-group">
                 <input type="submit" class="btn btn-primary" value="Login">
             </div>
-            <p>Don't have an account? <a href="register.php">Sign up now</a>.</p>
+            <p>If you would like to join the cleanse, <a href="https://culinaryhealing.com/21day.php">register here</a>.</p>
         </form>
     </div>    
 </body>
