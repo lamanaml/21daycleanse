@@ -120,7 +120,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
 <body>
     <div class="wrapper">
         <img src="_authenticated/assets/images/chlogo-tran.png"  width="300px">
-        <p>Enter your username and password to access the 21-Day Cleanse</p>
+        <p>Enter your username and password to access the 21-Day Cleanse!</p>
         <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="post">
             <div class="form-group <?php echo (!empty($username_err)) ? 'has-error' : ''; ?>">
                 <label>Username</label>

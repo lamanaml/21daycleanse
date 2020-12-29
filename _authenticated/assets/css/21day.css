@@ -129,7 +129,10 @@ a:hover {
 }
 
 
-
+.wrapper {
+  width: 500px;
+  justify-content: center;
+}
 .hero .btn {
     /* Positioning and sizing */
     display: block;
