@@ -31,9 +31,9 @@
     <link rel="stylesheet" href="assets/css/21day.css">
   </head>
 
-
+      <?php include_once("includes/authenticate.php"); ?>
   <body id="welcome">
-       <?php include_once("includes/authenticate.php"); ?>
+ 
 
 <!-- navigation -->
     <div class="nav-div">
