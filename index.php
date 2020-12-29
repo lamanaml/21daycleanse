@@ -118,7 +118,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
   </head>
 
 <body>
-    <div class="wrapper">
+    <div class="container">
         <img src="_authenticated/assets/images/chlogo-tran.png"  width="300px">
         <p>Enter your username and password to access the 21-Day Cleanse!</p>
         <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="post">
