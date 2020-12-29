@@ -1,4 +1,4 @@
-
+   <?php include_once("includes/authenticate.php"); ?>
 <!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
@@ -31,7 +31,7 @@
     <link rel="stylesheet" href="assets/css/21day.css">
   </head>
 
-      <?php include_once("includes/authenticate.php"); ?>
+   
   <body id="welcome">
  
 
