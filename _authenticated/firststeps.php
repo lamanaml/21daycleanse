@@ -1,13 +1,4 @@
-<?php
-// Initialize the session
-session_start();
- 
-// Check if the user is logged in, if not then redirect him to login page
-if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
-    header("location: ../index.php");
-    exit;
-}
-?>
+
 <!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
@@ -42,11 +33,8 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 
 
   <body id="firststeps">
-    
-<!-- login -->
-    <div class="nav-div">
-      <?php include_once("includes/authenticate.php"); ?>
-    </div>
+
+
     <div class="nav-div">
       <?php include_once("includes/nav.html"); ?>
     </div>
